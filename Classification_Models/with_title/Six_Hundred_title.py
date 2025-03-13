@@ -113,4 +113,13 @@ checking(y_unseen,svm_unseen,svm_classifier, X_unseen)
 
 #NAIVE BASE
 
-#
+#XGBOOST
+
+#Import models
+import joblib
+
+# Save the trained model
+joblib.dump(svm_classifier, 'svm_model.pkl')
+# joblib.dump(nb_classifier, 'svm_model.pkl')
+# joblib.dump(xgb_classifier, 'svm_model.pkl')
+
