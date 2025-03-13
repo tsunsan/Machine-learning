@@ -1,6 +1,6 @@
 import pandas as pd
 # Load the preprocessed CSV file
-df = pd.read_csv("csv/with_title/12k_amazon_handmade_reviews_balanced.csv")
+df = pd.read_csv("../../csv/with_title/12k_amazon_handmade_reviews_balanced.csv")
 
 import nltk
 import numpy as np
@@ -73,25 +73,6 @@ def checking(y_test, y_pred,model,X_test):
   print("Cross-Validation Accuracy Scores:", cv_scores)
   print("Mean CV Accuracy:", np.mean(cv_scores))
 
-def classify_text(sentences, model):
-    # Convert sentences to TF-IDF
-    X_test_tfidf = vectorizer.transform(sentences)
-
-    # Predict sentiment scores
-    predictions = model.predict(X_test_tfidf)
-
-    # Map numerical scores to sentiment categories
-    sentiment_map = {5: "Very Positive", 4: "Positive", 3: "Neutral", 2: "Slightly Negative", 1: "Very Negative"}
-    sentiment_results = {sentence: sentiment_map[pred] for sentence, pred in zip(sentences, predictions)}
-
-    return sentiment_results
-
-sample_sentences = [
-    "this product is very good", "I hate this", "not bad", "absolutely amazing",
-    "poorly made", "just okay", "love it", "terrible", "fantastic quality",
-    "could be better"
-]
-
 #HANS ARAGONA
 #SVM
 from sklearn.svm import SVC
@@ -99,9 +80,6 @@ from sklearn.svm import SVC
 svm_classifier = SVC(probability=True)  # Enable probability estimates  # instatiating the model
 svm_classifier.fit(X_train, y_train)  # traning/ fitting the model
 svm_predictions = svm_classifier.predict(X_test)  # testing the model
-
-test=classify_text(sample_sentences, svm_classifier)
-print(test)
 
 svm_unseen = svm_classifier.predict(X_unseen)
 

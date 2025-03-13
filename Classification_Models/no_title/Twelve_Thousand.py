@@ -1,6 +1,7 @@
 import pandas as pd
+import os
 # Load the preprocessed CSV file
-df = pd.read_csv("csv/no_title/12k_amazon_handmade_reviews_balanced.csv")
+df = pd.read_csv("../../csv/no_title/12k_no_title_amazon_handmade_reviews_balanced.csv")
 
 import nltk
 import numpy as np
@@ -37,7 +38,7 @@ df["processed_text"] = df["text"].astype(str).apply(preprocess_text)
 # TF-IDF Vectorization
 vectorizer = TfidfVectorizer()
 X = vectorizer.fit_transform(df["processed_text"])
-y = df["sentiment"].map({"Positive": 5,"Positive": 4, "Neutral": 3, "Negative": 2,"Negative": 1})  # CHANGE THIS
+y = df["sentiment"].map({"Positive": 2, "Neutral": 1, "Negative": 0})  # CHANGE THIS
 
 # Split the dataset to be used for the algorithms
 X_train_test, X_unseen, y_train_test, y_unseen = train_test_split(X, y, test_size=0.10, random_state=42, stratify=y)
@@ -73,24 +74,6 @@ def checking(y_test, y_pred,model,X_test):
   print("Cross-Validation Accuracy Scores:", cv_scores)
   print("Mean CV Accuracy:", np.mean(cv_scores))
 
-def classify_text(sentences, model):
-    # Convert sentences to TF-IDF
-    X_test_tfidf = vectorizer.transform(sentences)
-
-    # Predict sentiment scores
-    predictions = model.predict(X_test_tfidf)
-
-    # Map numerical scores to sentiment categories
-    sentiment_map = {5: "Very Positive", 4: "Positive", 3: "Neutral", 2: "Slightly Negative", 1: "Very Negative"}
-    sentiment_results = {sentence: sentiment_map[pred] for sentence, pred in zip(sentences, predictions)}
-
-    return sentiment_results
-
-sample_sentences = [
-    "this product is very good", "I hate this", "not bad", "absolutely amazing",
-    "poorly made", "just okay", "love it", "terrible", "fantastic quality",
-    "could be better"
-]
 
 #HANS ARAGONA
 #SVM
@@ -100,20 +83,24 @@ svm_classifier = SVC(probability=True)  # Enable probability estimates  # instat
 svm_classifier.fit(X_train, y_train)  # traning/ fitting the model
 svm_predictions = svm_classifier.predict(X_test)  # testing the model
 
-test=classify_text(sample_sentences, svm_classifier)
-print(test)
-
 svm_unseen = svm_classifier.predict(X_unseen)
 
+print("SVM RESULTS ====================================")
 evaluate_mae(y_test,svm_predictions)
 checking(y_test,svm_predictions,svm_classifier, X_test)
-
-evaluate_mae(y_unseen,svm_unseen)
-checking(y_unseen,svm_unseen,svm_classifier, X_unseen)
-
 #NAIVE BASE
 
 #XGBOOST
+from xgboost import XGBClassifier
+xgb_model = XGBClassifier(objective='multi:softprob', num_class=5, n_estimators=200)
+xgb_model.fit(X_train, y_train)
+
+# Predict and evaluate the model
+y_pred = xgb_model.predict(X_test)
+
+print("XGBOOST RESULTS ====================================")
+evaluate_mae(y_test,y_pred)
+checking(y_test,y_pred,xgb_model, X_test)
 
 #Import models
 import joblib
