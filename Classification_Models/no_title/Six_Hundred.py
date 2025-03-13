@@ -74,20 +74,40 @@ from sklearn.svm import SVC
 
 svm_classifier = SVC(probability=True)  # Enable probability estimates  # instatiating the model
 svm_classifier.fit(X_train, y_train)  # traning/ fitting the model
-svm_predictions = svm_classifier.predict(X_test)  # testing the model
 
+svm_predictions = svm_classifier.predict(X_test)  # testing the model
 svm_unseen = svm_classifier.predict(X_unseen)
 
 print("SVM RESULTS ====================================")
 
-print("SVM TEST ****************************************")
+print("SVM SEEN ****************************************")
 evaluate_mae(y_test,svm_predictions)
 checking(y_test,svm_predictions,svm_classifier, X_test)
 
 print("SVM UNSEEN ****************************************")
 evaluate_mae(y_unseen,svm_unseen)
 checking(y_unseen,svm_unseen,svm_classifier, X_unseen)
+
 #NAIVE BASE
+from sklearn.naive_bayes import MultinomialNB
+
+# Train Naïve Bayes classifier
+nb_classifier = MultinomialNB()
+nb_classifier.fit(X_train, y_train)
+
+# Predictions on test set
+nb_predictions = nb_classifier.predict(X_test)
+nb_unseen = nb_classifier.predict(X_unseen)
+
+print("NAIVE BASE RESULTS ====================================")
+
+print("NAIVE BASE SEEN ****************************************")
+evaluate_mae(y_test,nb_predictions)
+checking(y_test,nb_predictions,nb_classifier, X_test)
+
+print("NAIVE BASE UNSEEN ****************************************")
+evaluate_mae(y_unseen,nb_unseen)
+checking(y_unseen,nb_unseen,nb_classifier, X_unseen)
 
 #XGBOOST
 from xgboost import XGBClassifier
@@ -96,12 +116,11 @@ xgb_model.fit(X_train, y_train)
 
 # Predict and evaluate the model
 xbg_pred = xgb_model.predict(X_test)
-
 xbg_unseen = xgb_model.predict(X_unseen)
 
 print("XGBOOST RESULTS ====================================")
 
-print("XGBOOST UNSEEN ****************************************")
+print("XGBOOST SEEN ****************************************")
 evaluate_mae(y_test,xbg_pred)
 checking(y_test,xbg_pred,xgb_model, X_test)
 
@@ -113,6 +132,6 @@ checking(y_unseen,xbg_unseen ,xgb_model, X_unseen)
 import joblib
 
 # Save the trained model
-joblib.dump(svm_classifier, 'svm_model.pkl')
-# joblib.dump(nb_classifier, 'svm_model.pkl')
-# joblib.dump(xgb_classifier, 'svm_model.pkl')
+joblib.dump(svm_classifier, 'models/svm_model_600.pkl')
+joblib.dump(nb_classifier, 'models/nb_model_600.pkl')
+joblib.dump(xgb_model, 'models/xgb_model_600.pkl')
