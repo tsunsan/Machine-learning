@@ -1,4 +1,5 @@
 import pandas as pd
+import os
 # Load the preprocessed CSV file
 df = pd.read_csv("../../csv/with_title/27k_amazon_handmade_reviews_balanced.csv")
 
@@ -9,13 +10,6 @@ from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer, PorterStemmer
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.model_selection import train_test_split, cross_val_score, StratifiedKFold
-
-#download necessary NLTK resources
-nltk.download('punkt')
-nltk.download('stopwords')
-nltk.download('wordnet')
-nltk.download('averaged_perceptron_tagger')
-nltk.download('punkt_tab')
 
 # Initialize NLP tools
 stop_words = set(stopwords.words("english"))
@@ -32,12 +26,12 @@ def preprocess_text(text):
     return " ".join(tokens)
 
 # Apply preprocessing
-df["processed_text"] = df["text"].astype(str).apply(preprocess_text)
+df["processed_text"] = df["combined_text"].astype(str).apply(preprocess_text)
 
 # TF-IDF Vectorization
 vectorizer = TfidfVectorizer()
 X = vectorizer.fit_transform(df["processed_text"])
-y = df["sentiment"].map({"Positive": 5,"Positive": 4, "Neutral": 3, "Negative": 2,"Negative": 1})  # CHANGE THIS
+y = df["sentiment"].map({"Positive": 2, "Neutral": 1, "Negative": 0})  # CHANGE THIS
 
 # Split the dataset to be used for the algorithms
 X_train_test, X_unseen, y_train_test, y_unseen = train_test_split(X, y, test_size=0.10, random_state=42, stratify=y)
@@ -73,30 +67,71 @@ def checking(y_test, y_pred,model,X_test):
   print("Cross-Validation Accuracy Scores:", cv_scores)
   print("Mean CV Accuracy:", np.mean(cv_scores))
 
+
 #HANS ARAGONA
 #SVM
 from sklearn.svm import SVC
 
 svm_classifier = SVC(probability=True)  # Enable probability estimates  # instatiating the model
 svm_classifier.fit(X_train, y_train)  # traning/ fitting the model
-svm_predictions = svm_classifier.predict(X_test)  # testing the model
 
+svm_predictions = svm_classifier.predict(X_test)  # testing the model
 svm_unseen = svm_classifier.predict(X_unseen)
 
+print("SVM RESULTS ====================================")
+
+print("SVM SEEN ****************************************")
 evaluate_mae(y_test,svm_predictions)
 checking(y_test,svm_predictions,svm_classifier, X_test)
 
+print("SVM UNSEEN ****************************************")
 evaluate_mae(y_unseen,svm_unseen)
 checking(y_unseen,svm_unseen,svm_classifier, X_unseen)
 
 #NAIVE BASE
+from sklearn.naive_bayes import MultinomialNB
+
+# Train Naïve Bayes classifier
+nb_classifier = MultinomialNB()
+nb_classifier.fit(X_train, y_train)
+
+# Predictions on test set
+nb_predictions = nb_classifier.predict(X_test)
+nb_unseen = nb_classifier.predict(X_unseen)
+
+print("NAIVE BASE RESULTS ====================================")
+
+print("NAIVE BASE SEEN ****************************************")
+evaluate_mae(y_test,nb_predictions)
+checking(y_test,nb_predictions,nb_classifier, X_test)
+
+print("NAIVE BASE UNSEEN ****************************************")
+evaluate_mae(y_unseen,nb_unseen)
+checking(y_unseen,nb_unseen,nb_classifier, X_unseen)
 
 #XGBOOST
+from xgboost import XGBClassifier
+xgb_model = XGBClassifier(objective='multi:softprob', num_class=5, n_estimators=200)
+xgb_model.fit(X_train, y_train)
+
+# Predict and evaluate the model
+xbg_pred = xgb_model.predict(X_test)
+xbg_unseen = xgb_model.predict(X_unseen)
+
+print("XGBOOST RESULTS ====================================")
+
+print("XGBOOST SEEN ****************************************")
+evaluate_mae(y_test,xbg_pred)
+checking(y_test,xbg_pred,xgb_model, X_test)
+
+print("XGBOOST UNSEEN ****************************************")
+evaluate_mae(y_unseen,xbg_unseen )
+checking(y_unseen,xbg_unseen ,xgb_model, X_unseen)
 
 #Import models
 import joblib
 
 # Save the trained model
-joblib.dump(svm_classifier, 'svm_model.pkl')
-# joblib.dump(nb_classifier, 'svm_model.pkl')
-# joblib.dump(xgb_classifier, 'svm_model.pkl')
+joblib.dump(svm_classifier, 'models/svm_model_27k.pkl')
+joblib.dump(nb_classifier, 'models/nb_model_27k.pkl')
+joblib.dump(xgb_model, 'models/xgb_model_27k.pkl')
