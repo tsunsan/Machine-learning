@@ -1,0 +1,655 @@
+True: 2, Predicted: 0, Text: DO. NOT. BUY. You've been warned!<br /><br />I am not sure where all the great reviews come from, but pictures speak a thousand words, so please see my photos. The end result looked nothing like what was advertised. As a bride-to-be, my dear friend and bridesmaid wanted to buy me this customized robe as a gift. However, it arrived with several holes across the customized portion, and these were not present on the outer organza bag that held it or the shipping, so it must have happened during production. The paintwork was also of TERRIBLE QUALITY---faded, jagged leaf edges (not in an artistic, watercolor way but clearly a bad job). If you look at my pictures, note the broken green leaves next to the pink blur that was supposed to be a pink rose and the random green dot under the rose like it came off and got stuck there. The flowers were nearly nonexistent like someone forgot to apply white ink to the fabric to give the flowers contrast. That made the lettering look weird and pretty much destroyed an otherwise gorgeous robe and color (dusty rose, by the way). The customization is supposed to enhance the robe, not destroy it.<br /><br />This was supposed to be a sweet gift from a sweet friend, but instead, I am telling her to send it back pronto so she can get her hard-earned cash back. There are many choices on Amazon---DON'T PICK THIS ONE!
+True: 2, Predicted: 1, Text: Beautiful and well made.
+True: 0, Predicted: 1, Text: Do not waste your hard earned money it's as thick as a quarter at the base and light as a feather.
+True: 2, Predicted: 1, Text: Product is NOT as described...  Save your money on this one!!  Map is severely cropped...
+True: 0, Predicted: 1, Text: It’s a cute necklace but it breaks very easily. Honestly not worth the price.
+True: 2, Predicted: 1, Text: The picture shows the color of the earrings are blue, however, they are brown. So make sure you will be ok with the color they send instead of the color in the picture. I needed the blue. The color I actually received looks horrible on me.
+True: 1, Predicted: 0, Text: I received it and it was already flimsy. Snapped immediately.
+True: 0, Predicted: 1, Text: It’s a beautiful piece, but does not rattle. There’s no sound at all when I shake it. Really more for looks or display than actually getting to play with it with my baby. I’m disappointed but, it’s still beautiful to look at.
+True: 0, Predicted: 1, Text: The items received were fit for a baby,which was misleading I ordered for grandson and granddaughter..I will never order again from that seller absolutely not..
+True: 2, Predicted: 0, Text: It is a little big for your pocket. I have a ford focus key that is broken, this case holds it but moves around a little too much. It is a little large for men’s pockets.
+True: 1, Predicted: 0, Text: Here is a picture of how it arrived. I would expect a full bottle for the price.  It did not leak into the package and it was sealed tight.  Just not filled. It smells very nice but you cannot smell it unless you get your nose right next to it. I would really like this company to improve as I would love a diffuser to help my house smell like balsam/evergreen. I love that smell and not just at Christmas.
+True: 0, Predicted: 1, Text: This is a paper poster not a sign as I thought it was advertised to be
+True: 0, Predicted: 1, Text: The picture itself is funny and that's why I bought it, when I received the product the top part of the photo was bent as if it was folded down and the picture  looked slightly blury, i didn't want the hassle of returning and waiting for a new one and possibly  having that one bent as well so I still put it in a frame and hung it up....its only my kids bathroom  so not a huge deal but you can still see the bend mark within the frame.
+True: 0, Predicted: 1, Text: Slightly blurry and it’s just a sticker over the blade couldn’t use the blade for anything. I know it’s to be collected but I still expect a knife to have a usable blade.
+True: 2, Predicted: 0, Text: I bought these for a back up to my nose ring when I got them I should have known by the price they were cheaply made and looked like they would have fit a Barbie doll. Sent back.
+True: 1, Predicted: 0, Text: Shirts came out really cute but the women size shirt did not go according to plan. I normally wear a Lg and went XL. My mom wears a M and she went L. No go. My mom tried my XL and it barely fit her. Don’t go one size up go like 3 sizes in the women’s Ts.
+True: 1, Predicted: 2, Text: Not worth $19.99. It's very thin and the bark was falling off in the package. This is more like a $7 item.
+True: 1, Predicted: 0, Text: Very bad made broke same day my daughter got it
+True: 0, Predicted: 1, Text: I waited months for this product to arrive. I made a point to position the tablet so the shower would not hit it. It lasted 15 seconds in the shower. Over priced for a product that lasts 15 seconds.
+True: 0, Predicted: 1, Text: No smell whatsoever. Total waste of money. I really shouldn’t even give it one star it was that bad.
+True: 1, Predicted: 0, Text: I order it because the amazing reviews but I did not receive any letter or special packaging and that’s ok... but I expected some smell from the oil. it seems to be very diluited it does not smell like an essential oil. I dont recomend this product.
+True: 0, Predicted: 1, Text: Shame on me for not reading the very smallll fine print. I thought these pictures were on a canvas ready to hang up but instead I have 4 printed pictures that I need to purchase a frame for. Not worth the money I paid for them.
+True: 2, Predicted: 1, Text: Broke 2 days after outting it on.
+True: 1, Predicted: 0, Text: Have requested return over a week ago, no response from seller.  Item not quite up to par.
+True: 1, Predicted: 0, Text: terrible quality & one of the birds upside down even.
+True: 0, Predicted: 2, Text: This is not what the picture is. I’m upset it’s a rooster. And it’s not easy to stamp the egg. I would have been fine with it not stamping correctly it’s for my daughter but I didn’t want to stamp out eggs with a rooster when in the pictures it’s a hen.
+True: 0, Predicted: 1, Text: It was just a few prints. Nothing special. I guess you get what you pay for.
+True: 2, Predicted: 0, Text: "not at all what I expected; the scent did not smell like Lavender fragrance; I was disappointed; one of my favorite wax-melt fragrances is Lavender, but will not consider ordering this brand in the future.
+True: 0, Predicted: 1, Text: Barely look like the photo, not blue like they should be, the ‘gold’ is cheap and tacky looking. Huge disappointment.
+True: 0, Predicted: 1, Text: I don't buy these specifically because they have really bad gold weight.<br />I only buy rings like this where the Gold it not HOLLOW behind the ring.
+True: 1, Predicted: 0, Text: Cute, but probably costs less than a dollar to make.  Should not be charging more than $3, in my opinion.  It’s small, is just a printed photo, and didn’t even have the ribbon attached.
+True: 1, Predicted: 2, Text: They were not aesthetically pleasing, and a few prints came creased/torn. I could only use a couple of the prints.
+True: 2, Predicted: 1, Text: Was great until I was exfoliating in the shower. Long story short, it broke after 2 weeks
+True: 0, Predicted: 1, Text: Leaves a sticky feel on my hair and has a weird smell that's unplesant.
+True: 2, Predicted: 1, Text: It is cute, but I wouldn't recommend it. I have had it for a couple months now, and I am already looking for a replacement as it is scratched up pretty good. Also, it is much smaller than I had imagined. Don't buy this. Was a waste of money for sure.
+True: 0, Predicted: 1, Text: Not worth buying
+True: 2, Predicted: 1, Text: Cheap quality. The bracelet didn’t even last me two months.
+True: 2, Predicted: 1, Text: After about a month the pendant fell off and the slide not in the back unraveled!
+True: 2, Predicted: 1, Text: This was a gift for my niece, she loves it but I do not, because I know better.  She loves anything I gift her but truly the quality of this was as if I would have laminated it myself at home, honestly, that may have been better.  The material is cheap, not sturdy enough, and the font is not legible.  I will not order this again.
+True: 2, Predicted: 1, Text: if you are ordering this for a small child, this would be great.
+True: 2, Predicted: 1, Text: What you see here is NOT what you get. It's more of a necklace pendant rather than a dog/cat tag. And i say necklace beacise they literally sent me a necklace. I only will not be returning this beacuse it does have my info on the tag so it will suffice so that my cat can roam. But really they advertise this product the worng way.
+True: 0, Predicted: 1, Text: Pretty but too heavy for me
+True: 1, Predicted: 0, Text: The picture of the stackable rings is very misleading. The rope ring is great but the solid one is a very cheap thin piece of copper wire. Would never purchase from this vendor again.
+True: 0, Predicted: 1, Text: The chain is really cheap, so it broke the second day I wore it . I lost one of the jewels when it broke. Disappointed.
+True: 1, Predicted: 2, Text: Too strong  I couldn't stand it
+True: 1, Predicted: 0, Text: The engraving was sloppy
+True: 1, Predicted: 0, Text: Does not look like it layvasbthenoucture shows
+True: 0, Predicted: 1, Text: These are very cute but not sturdy at all. Mine were broken when I received them.
+True: 1, Predicted: 0, Text: Came late, bent up and parts unglued
+True: 1, Predicted: 0, Text: I expected so much more.  I gave them with an apology.
+True: 0, Predicted: 1, Text: This name tag broke the same day we got it. I was so sad since it was beautiful but it took 2-3 weeks to receive which I expect for a custom made tag. But it was cheap and broke very easily. We couldn’t even fix it to make it work the tag broke right at the rim so if we drilled a hole they it to make it work we would have ruined our dogs name on it.
+True: 0, Predicted: 1, Text: The mask material is fine and the idea of it is great, however the fit is horrid. Even if wearing it for 5 seconds the cut and fit of it is such that it slides up and pokes you in the eye. So the mask itself then is not comfortable which defeats the whole purpose of me buying this mask. If I have to keep pulling it out of my eyes it isn’t ideal to travel.
+True: 1, Predicted: 0, Text: Miniature sized, like a toy.
+True: 1, Predicted: 0, Text: A friend bought these for me for my recent birthday. The image was originally three bears. After rcpt, the image shows four, but the description still says three pieces. The seller refused to ship the missing pic (blue). So, now I have an incomplete set.
+True: 1, Predicted: 0, Text: It is not worth the money
+True: 2, Predicted: 1, Text: Turned my finger black after 2 days, not good quality, do not buy
+True: 2, Predicted: 0, Text: Not what expected.
+True: 1, Predicted: 0, Text: 2nd day of wearing,this bracelet broke loose of the fastener
+True: 2, Predicted: 1, Text: This is the 7th ring I purchased from this seller and I absolutely love her work.  It’s the color of this ring, it just looks cheap.  I was sad to leave this review cause I truly love every other ring I bought, but I have to give an honest review.
+True: 1, Predicted: 0, Text: I really did love the earrings, unfortunately, I lost one the 2 nd day I wore them. The back had come loose earlier that day, but I felt it. The next time, I didn’t even know until someone said it was missing. So bummed.
+True: 0, Predicted: 1, Text: Don't buy
+True: 0, Predicted: 1, Text: Impossible to put on
+True: 1, Predicted: 2, Text: I loved the necklace and it arrived in pretty good timing. However, stating that it's &#34;silver&#34; is a little misleading as it is all tarnished and dull and even turning green  ;( it can't be cleaned or polished back to it's luster ...?? I'm disappointed in the price for the quality that was received, as I do not believe it is real silver .....
+True: 2, Predicted: 1, Text: The scent lasts through several uses, but the scent is more like a soap than Eucalyptus/Mint. I don't smell either.
+True: 0, Predicted: 1, Text: I was very disappointed when I received these items, you could barely see the image of Muhammad Ali! I would advise everyone to keep thei money!<br /><br />These items weren't terribly expensive, but money best spent on other memorabilia!
+True: 1, Predicted: 2, Text: Was not as advertised disappointing!!
+True: 2, Predicted: 1, Text: The idea is fantastic but……. The ring stands too tall, *way* too tall, and the prongs on the underside stone cut into my finger and actually made me bleed.  It really is beautiful and I love the idea but the design simply doesn’t work.  I can’t even recommend it for costume jewelry because it stands so tall.
+True: 1, Predicted: 0, Text: Tiny,  thin,  wish I didn't buy.
+True: 1, Predicted: 0, Text: Won’t stay in the ear
+True: 0, Predicted: 1, Text: I’m not allergic to gold this was obviously not actual gold!
+True: 0, Predicted: 1, Text: Needed item on day they say be delivered comes in 3 days later and have no use for the item and refuse to take the return plus item not as describe beware
+True: 2, Predicted: 0, Text: These were meant to look vintage, and looked really good in the photos on Amazon. These are printed on glossy photo paper. Not at all what the description stated as "Vintage". If they were not for a Bosses day gift, and I had more time, I would have returned them.
+True: 0, Predicted: 1, Text: I expected the print and the paper that the signage was printed on to be of better quality.  I will have to mount it on card stock and then frame it.  I was a little disappointed.
+True: 1, Predicted: 0, Text: Yes it's comfortable and lightweight, but I am disappointed. The beads were glued off centered so it did not look cute at all because it wasn't centered.<br /><br />Shame. :(
+True: 1, Predicted: 0, Text: Broke the first few days I’m very disappointed. It hangs by a needle. It’s pretty but for spending $28 on a necklace that hangs by a needle that breaks in a few days really upsets me.
+True: 1, Predicted: 0, Text: For the price it's ok but the labradorite has zero flash so I'm a little disappointed in these earrings.
+True: 2, Predicted: 1, Text: I was disappointed in how dull the black was on the shirt. It looks faded and like it’s been through the wash multiple times already.
+True: 0, Predicted: 1, Text: Product was delivered with bottle cap completely open. Not sure if product is safe to use. Fortunately it is winter, if this was delivered in Warm weather I would have ended with a huge mess on my hand ( literally).
+True: 1, Predicted: 0, Text: These do not have a pleasant scent to them.
+True: 0, Predicted: 1, Text: I love the size and shape of this bag, but the smell hasn’t gone away after 2 months of having it. I even kept it out in my garage to try and air it out and it didn’t help. I love the bag, but can’t use it due to the smell.
+True: 1, Predicted: 2, Text: Was so excited by examples showing NYC and Paris- very obvious what they were. My Disney ornament looks NOTHING like Disney! All the details are UNDER the personalization, so disappointed! Wanted something special for daughter and fiancé, this is NOT it!
+True: 2, Predicted: 0, Text: The picture makes these earrings seem much bigger than they are. The size was hard to find in the description. These would be okay for a small child.
+True: 0, Predicted: 1, Text: This product is literally garbage.  It looks like someone scoured old construction sites until they found a piece of water warped plywood that they could use to make this sign.  It's less than 1/4 inch thick, has no attachments for hanging it, but it wont hang anyway because it's so warped.  Waste of money.
+True: 1, Predicted: 0, Text: Smaller than appears in the pictures
+True: 0, Predicted: 2, Text: It was cheap looking, no detailing and wording was thinly stamped on. Towel was not squared up and hemming was ragged!
+True: 1, Predicted: 0, Text: It was 4 times bigger than the product specifications said. I was told it would be 8.5x11 and it came 18x24. I ordered a frame for it and now I can't use it because the frame is too small.
+True: 1, Predicted: 0, Text: My necklace turned within a week with just daily wear.
+True: 0, Predicted: 1, Text: I was really hoping for more of a gold speckle look on the earrings. The gold is dull. They are definitely overpriced. I am probably going to flick gold nail polish on them to give them some life.
+True: 1, Predicted: 2, Text: Not Sterling Slver!<br />Turns green and tarnished.
+True: 2, Predicted: 1, Text: Drive safely.
+True: 1, Predicted: 0, Text: Was very excited to receive this clock as a gift......it only lasted three months. This was not a cheap item and I am now trying to get info to get a repair...any info I could get would be greatly appreciated.
+True: 1, Predicted: 0, Text: Cheap and easy broke. Will be return
+True: 0, Predicted: 1, Text: The design of this needle minder is very cute. However, the magnet is so weak! It barely keeps a needle on and doesn't attract my scissors and keep them on like my other minders do. Disappointed.
+True: 0, Predicted: 1, Text: I love print design is great after that. They likely spent less than a penny on the wire that holds it against your nose, so .. there's a big gap and you might as well not wear it! .. I fixed mine by cutting the top edge and removing their twist tie JUNK .. and putting in a 14 gauge wire .. it's copper and still likely cost lest than 1 penny!!  Also, there is NO adjuster on the ear loops .. I fixed that by using some white electric tape .. a 1 penny bead would work best. My head is (7-1/4) and it was extremely lose without that adjustment.  Besides all that I like it ..  To the producers!  spend the penny and I'll pay for it! .. sub standard products sell fewer .. you might get them by the gimmick of the American flag like me .. but I wouldn't buy it again or refer a friend .. so ..
+True: 0, Predicted: 1, Text: SMALL BUT DURABLE. HOWEVER  THE NAME ON THE BAG WAS SPELLED INCORRECTLY 😡
+True: 1, Predicted: 0, Text: Picture came with a big wrinkle in it but the quality picture is nice.
+True: 2, Predicted: 0, Text: It is nothing like they show. Is like 5 times smaller than shown..
+True: 1, Predicted: 0, Text: I was expecting a sweet scent like fruits and instead I got a floral scent, which is one of my worst scents ever. Waay to strong for me
+True: 1, Predicted: 0, Text: The engraving was not legible. An ambulance technician would not have been able to read the writing nor see it was a medical bracelet. The size of the bracelet and quality was what I wanted. Unfortunately, I had to get a refund.
+True: 0, Predicted: 1, Text: Doesn’t smell like bergamot
+True: 1, Predicted: 0, Text: Was not what I expected
+True: 0, Predicted: 1, Text: Cute, but not worth the price. Material is not a good quality. If your skin is dry the material sticks to your fingers.
+True: 0, Predicted: 1, Text: So cute but plot this out on the wall before you buy.  My mistake but can't return.  Looks like a post-it note where I wanted it.
+True: 0, Predicted: 2, Text: This is very small, very cheap feel, and I was sent the wrong color.  The one I received was A silver color, not the gold tones. I still have some time and may return it. Here is a photo Neat a car key to capture the size.  Shoot, it’s so small I could put plot on a necklace...
+True: 1, Predicted: 0, Text: I bought this halter oct. 17 2020.  It was as close to a real halter and lead rope as possible.  chain and lobster claw as pictured on the lead rope and nice leather held its shape and real looking.  Then I ordered three more for my grand daughter. first one came the same quality.  a long time past and THANKS TO AMAZON  I did get the last two today Nov.27.  there is a big change no chain on the lead rope and no lobster claw to attach it. it has a wire twisted in it shaped in a hook to set it on the halter.  young kids will get poked by this and get hurt. the weight isnt the same in the halter as well..  both lead ropes are different in length just very poor quality.  What a shame because the first two were very nice.  Please  don't purchase these they are not the same as picture any more.
+True: 0, Predicted: 1, Text: Doesn’t work
+True: 1, Predicted: 0, Text: It tarnished so fast.
+True: 0, Predicted: 2, Text: Value for your money
+True: 1, Predicted: 0, Text: Mail box flag didn’t include a mounting bracket & made the installation difficult.
+True: 2, Predicted: 1, Text: Got one as a gift. Wore it one time and it came off because the velcro wasn't enough to keep it attached. Now I have to buy a new Fitbit because I lost it when it fell off
+True: 0, Predicted: 1, Text: I used there's for first and second lobe piercings and just putting them in was quite difficult considering the small size and bending them to put them in felt like they were going to snap.<br /> I had them in for about 2 days and they were extremely irritated and swollen by that point and very difficult to take out.<br />I have skin allergies but considering they're stainless steel this should not have happened. If you do not have sensitive skin or smaller lobes then this may work better for you but I would not reccomend.
+True: 0, Predicted: 1, Text: Looks like the ones advertised are the best ones. The ones I got are very light. I doubt this is silver. More like aluminum with a silver stamp. Save your money. Even the gold “vermeil” is questionable. It fades after five wears or one if you use soap. It fades. Not with the money for this clown jewelry. Totally fake looking in real life.
+True: 1, Predicted: 0, Text: Not able to give a gift
+True: 1, Predicted: 0, Text: Very rough.  I used it on my face and took me two days to rehydrate.  Not what I expected.
+True: 0, Predicted: 1, Text: it was too small
+True: 0, Predicted: 1, Text: so thin it broke when I was taking it out of the box. Not at all what I expected for the price. This is more like a $10 item.
+True: 2, Predicted: 1, Text: I love the description - Highly Scented!  Yeah, til you burn them.  I loved the scent of this wax melt but when I put it it the burner, I got a strong scent for five minutes and then it smelled like wax right after that.  What’s the point?  I buy a lot of wax melts but won’t be buying this brand again.
+True: 0, Predicted: 1, Text: Very poor quality - it fell apart the same day we received it.
+True: 1, Predicted: 2, Text: What a disappointment.  I just got my order today and was looking forward this body powder. (Nantucket)  Absolutely no fragrance.  For this price, and not even a powder puff, I had bigger expectations.  Perhaps this is why there have been no reviews.
+True: 2, Predicted: 1, Text: Ok
+True: 1, Predicted: 2, Text: This product belongs in the garabage for what it’s worth.
+True: 0, Predicted: 1, Text: It's a unique ornament for my lab loving daughter but  the hanger was not put on properly (through the silver ring so the ornament will hang properly) and upside down. Hanger was also scratched up and bent.
+True: 0, Predicted: 1, Text: What a shame. A beautiful design (even better than the photos actually) completely ruined by how short it is. I’d say it needs to be at least twice the length. They don’t tell you how long it is either so it’s sort’ve my own fault for taking a risk on it. Luckily it looks cool hanging from the rear view mirror of my Jeep. I highly recommend it for that but don’t buy it to wear. Not unless you are a frat bro d-bag with tribal tattoos, cargo shorts and a Guy Fieri hairdo. My point is, for this design, it should be a long necklace.  Last thing, it came in a very nice box…um why? It’s a necklace. We don’t need a nice box. I threw that in the trash. It’s useless. Maybe if you didn’t waste money on nice boxes you could put a few more beads on there.
+True: 1, Predicted: 0, Text: Color is too bright, reminds me of the  sail cover for a boat.  The fitting is too lose, making wrinkles. Returning this purchase.
+True: 0, Predicted: 1, Text: It literally fell out of my nostril after blowing my nose ONCE and my piercing closed.
+True: 0, Predicted: 1, Text: This was a Christmas gift that we bought a friend. Unfortunately it's too late to get him something else instead.  The stone is so bad that I am embarrassed about the ring. The photo posted is nothing like what you'll actually receive
+True: 2, Predicted: 1, Text: Bought this for a Christmas gift for a co worker. I can say I am a bit disappointed in the actual size of the air fresheners. They could be a little bigger. I would say they are maybe half the size of one of those Christmas tree air fresheners. It's a gag gift. Can't say I would recommend or buy again.
+True: 2, Predicted: 1, Text: The color was not what I thought it was. Dull and boring.
+True: 2, Predicted: 1, Text: I loved this necklace when I got it, and have gotten many compliments on it.  But now two months later the plating has almost all but rubbed off.  I will admit I didn't see the warning in the item description advising not to wear it while doing anything that might make you sweat, but I didn't wear it while working out or anything.  Just regular, casual wear and not even every day - part of my jewelry rotation of every other day or every two days or so.  It wasn't expensive but now I can't even wear something that was purchased because it had meaning for me.
+True: 0, Predicted: 1, Text: Huge Ring.Its ok ring
+True: 0, Predicted: 1, Text: The description says “Handcrafted Top Premium Leather Bag” - that’s not true!  It’s a cheap vinyl bag that takes three weeks for it to be shipped from China!<br /><br />Don’t buy this!
+True: 1, Predicted: 2, Text: I purchase 3 pairs of glasses at different times . My lasty pair arrived Today , has a Serious lens Problem like my last . Maybe if you wear a strong version, the lens Can't fit the frame Properly . My lens stick out of the frame and cross my eyes when I try to wear either pairs , including my last Purchase Today . Very unhappy with Purchase .
+True: 2, Predicted: 1, Text: does not stick
+True: 0, Predicted: 2, Text: Era para el cumpleaños de mi hijo y no llego para cuando tenia que llegar.<br />A mi hijo si le gustó mucho.<br />Tambien llegó  aplastado., no lo devolví  porque mi hijo así  lo quiso dijo que no tenia problema con eso.
+True: 2, Predicted: 1, Text: Or flavor. Just an average lip balm.
+True: 1, Predicted: 0, Text: After waiting 2 weeks this is how the sign arrived. The packaging wasn’t good protection for the item
+True: 1, Predicted: 2, Text: Came in a deli container. It was a really mixed and was super underfilled. It was a decent texture but I was disappointed
+True: 1, Predicted: 2, Text: If your want a Michigan, pendant look elsewhere. The shape is comical. They did issue a full refund for the inaccuracy.
+True: 2, Predicted: 0, Text: Print is blurry and pixelated.
+True: 2, Predicted: 1, Text: Not able to give a gift
+True: 1, Predicted: 0, Text: This item is JUST the box.  The description says that, but I missed it.
+True: 2, Predicted: 0, Text: hard to get in and isnt a full circle. cant wear it at all because it juts out way too much and looks off
+True: 0, Predicted: 2, Text: I had this band one week and the gold turned on it and the coating started peeling off the beads. I threw it away and started making my own.
+True: 2, Predicted: 1, Text: Item came quickly.  But very difficult to take apart and attach to wall.  Ended up throwing away.
+True: 1, Predicted: 0, Text: The wire broke, thought it wouldn't because it was wired
+True: 0, Predicted: 1, Text: Got my nose ring today and it came this way. Not sure if that’s normal or not but I’m disappointed.
+True: 1, Predicted: 0, Text: The colors were not nearly as vibrant as pictured. Immediately sent back, taking advantage of Amazon Prime.
+True: 2, Predicted: 1, Text: Very small
+True: 0, Predicted: 1, Text: This is just a print of a picture fuji glossy paper…<br />Very disappointed.  This is not a poster or anything  even close.  It’s a equivalent of a 59 cent Walmart print
+True: 0, Predicted: 1, Text: Disliked presenting this gift in this state.
+True: 1, Predicted: 0, Text: IT IS PLASTIC...<br />how can it have healing effects if it’s a man made chemically induced piece????????
+True: 2, Predicted: 1, Text: The size was perfect but mine got deformed
+True: 0, Predicted: 2, Text: It was too small for an adult.
+True: 0, Predicted: 1, Text: I bought these earrings for my niece as a Christmas gift, however when she tried to put the backing on the loop it broke off. She really loved the earrings and what they were made from but the craftmanship is very disappointing .
+True: 2, Predicted: 1, Text: I ordered this as a gift for my son and his fiancé. It was delivered in my mailbox, bent. When I opened it up, there were several large creases on the picture. It also looked cheaply made. Very disappointed.
+True: 1, Predicted: 0, Text: Received a picture of a  design of a head!
+True: 1, Predicted: 0, Text: Purchased this item for my laundry room for clothing I prefer to air dry rather than put in the dryer.  If I hang more than 3 items on it, it falls over.  Had to place it leaning into the wall.  I think it would be stronger if I could tighten it but the powder coating is on the threads and I can't get it to tighten down any more than it is.  Not sure what to do with it.  Not an easy item to pack up and return.
+True: 0, Predicted: 2, Text: I thought the details of name, etc would have been embroidered but instead they were stamped on. Very expensive towel for what I ended up getting.
+True: 1, Predicted: 0, Text: It broke
+True: 1, Predicted: 2, Text: A bit flimsy, the plastic curled up after 2 applications
+True: 2, Predicted: 0, Text: I was very disappointed in this toe ring. The blue gray was the thing that struck me. Mine came in green. I hate green. Very disappointed.
+True: 1, Predicted: 0, Text: Not a plaque! Paper
+True: 1, Predicted: 2, Text: What a dissapointment. The package smells good but it ended there. No scent while in the warmer
+True: 1, Predicted: 0, Text: They looked cheap and I returned them
+True: 1, Predicted: 0, Text: Absolutely terrible quality “poster”. Save yourself time and money and just print the picture off a computer yourself. The 8x11 literally is just a blurry printed picture. This is not a poster-quality photo. Terrible purchase.
+True: 1, Predicted: 2, Text: Feel slightly misled as it is printed on cardboard. That being said it is a quality print. Just expected more.
+True: 2, Predicted: 1, Text: These get very hot on your face very quickly.
+True: 2, Predicted: 1, Text: I called and asked to have my sons name engraved then below his name I wanted  the words Hell Yeah below his name. What did I get everything in one line. I made it a point to call with instructions on how I wanted it. I expected to get what I paid for. Totally unhappy.
+True: 1, Predicted: 0, Text: Even when washed in cold water and hung up to dry, these shrink to 23 by 44 inches, so do not provide good coverage.  You are better off making your own!
+True: 1, Predicted: 2, Text: Not true to size and not great quality!
+True: 1, Predicted: 2, Text: Love the upcycling.  I really am disappointed that the quote isn't correct.  A gift for Mom?  Nope - right in the trash.  If you're going to upcycle, please do it right.
+True: 0, Predicted: 1, Text: Faint engraving... charms fell off quickly. Stick to Alex and Ani
+True: 1, Predicted: 0, Text: I was very excited to get it, it looked ok, but was not staying put and broke within minutes.
+True: 0, Predicted: 1, Text: Awaiting an answer on how we can fix it need it for my wedding in 4 days 😭will update<br /><br />Update no one ever reached out!<br /><br />Order in advance advance it’s not solid wood so it’s very fragile especially depending on your font and name!
+True: 2, Predicted: 1, Text: Love the shirt but it came with a stain and a hole already on it 😕
+True: 1, Predicted: 0, Text: Garbage. Super flimsy. It comes out when you blow your nose or catch it on a towel. Don't waste your money.
+True: 1, Predicted: 2, Text: I ordered this for my best friends wedding as a gift. They spelled the last name wrong. I’m awaiting a response to see if I can have another one made. So disappointed.
+True: 0, Predicted: 2, Text: It was nothing like on the picture
+True: 2, Predicted: 1, Text: These are tiny, not the 2 inches as indicated, will be returning.
+True: 2, Predicted: 0, Text: It came cracked nearly in half in one spot. So not impressed
+True: 0, Predicted: 2, Text: It came all clumped up, it would not move around. Very disappointed especially as I purchased it as a gift.
+True: 1, Predicted: 0, Text: I really wanted to wear the small hoops to hoops and each air they’re very comfortable however to close down is difficult there was always a gap behind my ear which would snag my long hair or a sweater that I was getting into and that was a pain or hooking on a scarf I wish I never spent the money on these
+True: 2, Predicted: 1, Text: Very well made but because of size very difficult to install always bubbles
+True: 0, Predicted: 1, Text: It is cute but the black lettering faded after two days of wearing it.
+True: 1, Predicted: 0, Text: I would make sure you buy the biggest size because for 17 bucks you get a tiny sticker which in my opinion is not worth it for the price!
+True: 2, Predicted: 1, Text: Cheaply made not on quality photo paper did not do well for my purpose. Do not recommend unless placed in picture frame
+True: 2, Predicted: 1, Text: [[VIDEOID:fb18b1b7b9f81250081bf4853ef09209]] I spent a week trying to catch Yellowtail Damsel fish.<br />Yes, $55 trap for $6 fish )))))<br />Please take a look at my video.<br />Keep in mind that I push a pump every time when the fish inside a trap, but unfortunately hydraulic steam take a 1 second to release a trap and trap start to float up too slow.<br />Couple of my friends tryed to catch it without any success.
+True: 2, Predicted: 1, Text: Didn’t have post to wear it’s like a cuff
+True: 1, Predicted: 0, Text: I Didn't realize when I chose a thread color that it would all be that color. I chose navy and even the flowers were in navy. I figured the flowers would stay pink (like in the listing picture). Also, the flowers in the picture are different (and are way better looking) than the flowers on the one I received. I also thought the hanker chief would have been more as an ivory color like in the listing picture. Mine is pure white. Still cute though I guess.
+True: 1, Predicted: 0, Text: It only a 8x10 photo.. not even in a frame.
+True: 0, Predicted: 1, Text: Should have included paints.
+True: 1, Predicted: 0, Text: (1) It took over a month to receive<br />(2) Poor quality, it bins and the color changed after getting wet.
+True: 0, Predicted: 1, Text: Looks like something from a cracker jack box, definitely returning and will not buy from this company again
+True: 1, Predicted: 0, Text: Quite disappointed to received a well packaged box with NO earrings… only a pair of earring backs…. Returning it now….
+True: 1, Predicted: 2, Text: Not at pictured.  Plain white glossy paper.  No edging as pictured.  Very expensive for what it is.
+True: 1, Predicted: 0, Text: I had to pay shipping for another one because the original broke trying to get it off the cardboard. Way too much glue used for shipping.
+True: 2, Predicted: 1, Text: Very cheaply made. Flimsy plastic, not chalkboard material as described. Sending it back immediately.
+True: 1, Predicted: 0, Text: Product arrived a week after scheduled. Charm is so tiny you can’t tell what it is.
+True: 1, Predicted: 2, Text: Tried it on muscle back pain,  didn't work. Tried it on headache, alleviated a bit.  Also, container is not easy to use when trying to rub it on your side, for instance, because you have to keep your finger pushing the roll because otherwise, as you rub, it slides close again.
+True: 0, Predicted: 1, Text: This is not good sterling silver it get dark and my ear starts itching doesn’t worth the price
+True: 1, Predicted: 0, Text: The earrings tarnished almost immediately. I wore them once. Not worth buying.
+True: 1, Predicted: 2, Text: They were very cute when they came in, but when I opened the package, the back post was broken and unwearable on one of the earrings.
+True: 0, Predicted: 2, Text: The embroidery was good. Pillow flimsy and small
+True: 1, Predicted: 0, Text: They stickers didn’t come apart the entire sheet would lift.
+True: 2, Predicted: 1, Text: Pretty product but it came in ripped
+True: 0, Predicted: 1, Text: Engraving was so lite u can barely see the word.
+True: 1, Predicted: 2, Text: Returned
+True: 1, Predicted: 0, Text: No es Stainless steel como dice en la descripción , la pulsera al poco tiempo de traerla se mancha se comienza a poner color bronce pálido en los bordes , creo que pagamos mucho pensando que esto es de acero inoxidable y están mintiendo que mal .🙄
+True: 0, Predicted: 1, Text: Folder was very nice but description states 2 folders, I only received 1.
+True: 1, Predicted: 0, Text: Not what I expected at all disappointed
+True: 0, Predicted: 1, Text: There is no Sterling or 925 stamp on the earrings.<br />If you aren’t after sterling silver then they are cute for the price point.
+True: 1, Predicted: 2, Text: I realize that anything personalized cost more but, this item is very delicate and not top quality for the price.
+True: 1, Predicted: 0, Text: Sadly this clock died about a month ago. We tried to replace the timing mechanism but it didn’t fit even after careful measuring. Very disappointed.
+True: 0, Predicted: 1, Text: Wires are very thin and bend easily.  They also work their way out of my ear, and I have almost lost them a couple of times.  Not my favorite earrings due to the poor quality.
+True: 0, Predicted: 1, Text: Both frames were loosely put together.  One side on both frames were not flush put together.  There was a visible gap in the wood.
+True: 0, Predicted: 1, Text: Fantastic quality, very adorable. My issue was with ship time. It states to allow 1-2 weeks for your package to arrive. However, it Took 4 weeks for just the hat to be delievered. I ordered it 3 weeks before my sons newborn pictures expecting it to arrive well before. Causing us to have to have the photos taken without it. I’m hoping it still fits at his next photo session, but it is on the smaller side so I am not sure
+True: 1, Predicted: 0, Text: They are cute run small and if u need them for a certain date you better order a month ahead of time. Took over  4 weeks to arrive.. Ridiculous
+True: 2, Predicted: 1, Text: I bought 2 of these. I live in a 550 Sq ft apartment this did not fill my home in any shape or firm with a wonderful scent. Couldn't really smell it.
+True: 1, Predicted: 0, Text: Stencil is hard to read. Looks home made on a used piece of wood.
+True: 0, Predicted: 1, Text: Really small.
+True: 0, Predicted: 1, Text: Kind of cheap didn’t hold up in laundry
+True: 0, Predicted: 1, Text: crappy product and not worth the price.
+True: 0, Predicted: 2, Text: I have never given such bad ratings but guess there is always a first time to everything. I am struggling to find things that is good about the nail paints. They are one of the most streakiest, thick, and aweful to layer nail polishes I have every worn in my life.. save your money.
+True: 2, Predicted: 1, Text: Dislike
+True: 1, Predicted: 0, Text: Wore for one week and initial cams off of bracelet. Cheaply made.
+True: 2, Predicted: 1, Text: Cute design, however...the chain turned a copper color after the 3rd wear.
+True: 0, Predicted: 1, Text: I asked for this necklace for Christmas and was so excited to receive it! Fast forward a month and a half and the chain broke! So bummed out. My son is devastated.
+True: 1, Predicted: 2, Text: Ordered the letter T.  Does not look like the letter &#34;T&#34;  AT ALL!
+True: 1, Predicted: 0, Text: Really expected it to be better quality.  Very disappointed.
+True: 0, Predicted: 2, Text: Had to unravel the whole brown paper roll because the pole was to thick
+True: 1, Predicted: 0, Text: This sign should be for free! Poor quality! Broke within a week! Very disappointed!
+True: 1, Predicted: 0, Text: The stickers were too small. I have returned them
+True: 2, Predicted: 1, Text: Guess I should have read the description. Literally $15 for a picture pritened on a peice of paper. I could have done that myself for way cheaper. Plus I thought they were printed on canvases and now I have to go spend more money for frames.
+True: 1, Predicted: 2, Text: There are multiple flaws in the craftsmanship . Black marks that were very noticeable in multiple areas. There were multiple splinters in the crevices as well. Wood is thin . Seller agreed to a return with a “ restocking fee”. This was a gift that I am unable to give. Very disappointed.
+True: 1, Predicted: 0, Text: Dont waste your money. Its extreamly over priced. Poor quality for $65.00
+True: 0, Predicted: 1, Text: Returned. It’s not a kitchen towel, it looks like a decor.
+True: 1, Predicted: 0, Text: I ordered 3 sets. The grips were very poorly made. As you can see all that was done was a half inch hole drilled in the grip, filled with silicone and the concho pressed down into it. Silicone was all over the grip and plainly visible around the edge and thru the star. Looked like a 9 year old did it. I was able to fix them by getting all the dried silicone cleaned out. Laid a 1/2 inch o ring in the hole. Set the concho in and used an actual concho screw to engage from the backside. All fits perfectly now and looks good. Way it should have been done to start with. I know times are tough and things are out of hand but at the end of the day some one had to look at those shoddy grips and say "This is ok"<br />When I ordered someone had to package the grips and mail them.<br />That person must have also said "This is ok"  Well it wasnt "OK" Basically This is a 12 dollar set of grips messed up by the concho install and then charged 40 bucks for them. I was able to make them nice but took me well over an hour of work  just to have the grips be remotely usable.  I DO NOT recommend.
+True: 1, Predicted: 0, Text: To small, gave them away.
+True: 0, Predicted: 2, Text: I was very disappointed to see this wasn't a plaque or anything,  just a print out on photo paper which I could've done myself.  However,  I didn't pay enough attention to the details because I was eager to order it to complete my bathroom decor.
+True: 0, Predicted: 1, Text:  
+True: 2, Predicted: 0, Text: So, I can't begin to explain how disappointed I am in these. I ordered two and spent a good bit. Too much to be dealing with these kinds of issues.<br />First, one arrived damaged. As seen in the photo, the center pole was out of place, pushing the connecting pieces out of line also.<br />Then, the paint job on these is horrible. "Rustic" isn't the same thing as sloppy. This looks like a five minute paint job in someone's garage. I could've done better in my garage, honestly.<br /><br />Look, I know other options for these are are expensive but at least you'll get decent quality. And these certainly weren't cheap.
+True: 0, Predicted: 1, Text: Too small
+True: 2, Predicted: 0, Text: I would not buy this again  The measurements are not correct I don’t recommend this at all restocking fee 20%
+True: 1, Predicted: 0, Text: Beautiful stone but not mounted securely, it fell out while I was wearing it
+True: 2, Predicted: 0, Text: It was pretty for the first week, but it broke almost after a few wears (and I barely took it on or off).<br /><br />Going to see if I can get a replacement chain and keep the engraving, but it was disappointing.
+True: 0, Predicted: 1, Text: Way to big.
+True: 2, Predicted: 1, Text: Did not receive my item it supposedly arrived with my juicer the juicer is here but no card
+True: 1, Predicted: 2, Text: color faded after first day of wearing it
+True: 0, Predicted: 1, Text: The bracket was to small and there was only one of them and it was copper not silver
+True: 1, Predicted: 0, Text: The wrong date is printed on the back of the necklace and you can see the stamping on the back through the front of the necklace. Definitely not the quality I expected.
+True: 1, Predicted: 0, Text: Way too small besides 2x2<br />What r u going to do with that Highly over priced
+True: 0, Predicted: 2, Text: Looks like metal actually made of cheap fake wood mom sad
+True: 2, Predicted: 1, Text: Great fragrance but dissolve so quickly not worth the money!
+True: 2, Predicted: 1, Text: Was going to put stickers on my cooler and they won’t stay on. Magnets are ok.
+True: 0, Predicted: 1, Text: Got wrong color sweatshirt order sand and got gray and tex on sweater was supposed to be white and is not other wise nice production was right color
+True: 0, Predicted: 2, Text: Cheap looking
+True: 0, Predicted: 1, Text: First image shows the product advertised, next one actually depicts what I received and then I added an additional photo, including Aquamarine stones plus the earrings.
+True: 1, Predicted: 0, Text: Looks cheap.  Opal looks like glitter glass.  And sharp edges.
+True: 0, Predicted: 1, Text: It’s ok , I kept it but it does not look like it’s worth the price I paid, does not look or feel like silver. I would not recommend it.
+True: 0, Predicted: 1, Text: Don’t waste your time ordering this , it does not stay in your ear .
+True: 1, Predicted: 0, Text: Although the print is pretty, the &#34;placemat&#34; seems to be just two pieces cut from a tablecloth and sewn together back-to-back.  Plus, I assumed the order would include four placemats, but I only received one.  I submitted a request for returning it to Amazon, and received a reply that they would contact the vendor.  That was several days ago, so I am definitely not satisfied.
+True: 0, Predicted: 1, Text: I love the principle of screw on backs but the posts are so long the earrings stick out too far.
+True: 0, Predicted: 1, Text: The product kept sliding down the stethoscope so it makes it very irritating!
+True: 0, Predicted: 1, Text: The back of one of the earrings were bent. And the butterfly’s were paper, like maybe glued on? But definitely paper. I just threw them away.
+True: 1, Predicted: 0, Text: Not the best product. Itchy and too big. Not what I thought. I guess it was my mistake.
+True: 1, Predicted: 0, Text: This was waste of money.
+True: 0, Predicted: 2, Text: I was completely aware that the frames were not included but I was surprised to see the quality of these pictures. It looks like they printed it out from their home computer on regular paper. I could have done just as good on my own printer and saved A LOT of money! Very dissatisfied.
+True: 0, Predicted: 1, Text: They lost color and tarnished within a week and I can barely read the print. Great idea but poor quality.
+True: 0, Predicted: 1, Text: My young daughter bought this (very expensive almost $25-30) slime with her own money after seeing it on a YouTube video- she had to have it.  She was so excited for this slime she patiently waited and looked for it in the mail every single day. It took weeks for it to arrive, and It arrived over a week later than we were told/it was expected. It has 5 "boba" balls which are basically just some hard plastic beads and it quite literally looks like lumpy vomit or poo. It looks absolutely nothing like the photo. I'm all for supporting small businesses and understand things can happen with shipping sometimes etc. I could have gotten past the delay if this slime was as pictured, however, this slime was not worth the wait and now I will have to find an alternative slime to make it up to my daughter. I'm assuming we will be out about $60 total (on a slime!!) when said and done. Not happy. This experience/slime was disappointing from start to finish.
+True: 0, Predicted: 1, Text: This is not Sterling silver,  my skin is very sensitive and had to take it out immediately.  Very pretty tho.
+True: 0, Predicted: 1, Text: This print is a horrible recreation of the original. Do not buy this.
+True: 1, Predicted: 0, Text: Really unhappy they look scratch and dull it’s just not the quality I thought I’d be getting.
+True: 1, Predicted: 0, Text: kind of dull
+True: 1, Predicted: 0, Text: I ordered 2 of these. One for me and 1 for my work bestie. We have different names and I placed the order accordingly. I got 2 shirts with HER name and 0 shirts with my name. The seller ignored my messages to discuss the order, mistake, and what we could do moving forward. Tee is cute and comfy, but the seller hides from mistakes.
+True: 0, Predicted: 1, Text: Uncomfortable. Didn't like the look it and didn't fit right
+True: 1, Predicted: 0, Text: Picture was cheap colors looked weird somehow you just have to see it but I dont recommend so take my word for it
+True: 0, Predicted: 1, Text: I ordered medium I would hate to see what the small looks like!! Not as described very disappointing!!
+True: 1, Predicted: 2, Text: They were a pretty gold color when I got them, but after a few months, they are a dull silvery color. Maybe it’s my fault for wearing them continuously, including in the shower. They are very lightweight.
+True: 2, Predicted: 0, Text: Pretty product but it came in ripped
+True: 1, Predicted: 0, Text: Don’t waste your money
+True: 1, Predicted: 2, Text: Poor quality, sloppily made. You can see damage on both sides where care was not taken when the opposite side was stamped. Not worth the price.
+True: 1, Predicted: 0, Text: This ring is not sterling silver. Within 2 weeks, the metal was flaking off. Gave me an infection from the flaking and the base metals.
+True: 0, Predicted: 1, Text: the letters and numbers came off
+True: 0, Predicted: 1, Text: I am disappointed at how cheap the stones look. I realize it's cultured to look like sea glass, but it's done poorly. Both the colors and the cut (much bigger, and much less dainty than the photo) are incredibly fake looking.
+True: 1, Predicted: 0, Text: Ok
+True: 1, Predicted: 2, Text: Terrible quality. Just painted onto over stained goopy wood. Sign fell apart the second we went to tap it into the ground
+True: 2, Predicted: 1, Text: Not worth the money
+True: 0, Predicted: 1, Text: They wear slightly. But it stays put. Its a sticker... its fine.
+True: 0, Predicted: 1, Text: it came as letters with holes punched that were too small to get the string through and 3 pieces of string to rope them all through.  I could have done this myself.
+True: 2, Predicted: 1, Text: Wanted this as a sweet 16 keepsake for my daughter signed by all her guests. This item felt more like a thick piece of paper coated in a layer of shiny glue. Ripped when trying to take scotch tape off that area.i wouldn't buy again for the price I paid
+True: 0, Predicted: 1, Text: too blurry of a picture, I think they could have improved the quality
+True: 2, Predicted: 0, Text: Tiny. Return it
+True: 1, Predicted: 2, Text: Muy decepcionada con mi orden. Las letras son muy finas y la madera de muy mala calidad. El nombre se rompió por la mitad antes de que pudiera utilizarlo 👎🏻
+True: 1, Predicted: 2, Text: This is soooooo cheap. I bought it as a gift for my assistant, but now I'm<br />Embarrassed to give it to her! It's like tin with silver pair on it-- like something from<br />A gumball machine!
+True: 0, Predicted: 1, Text: TINY BEADS and defective close
+True: 2, Predicted: 1, Text: The name was only 3 letters long. I would think that the letters could be bigger. It was a gift and he didn’t even notice his name it was so small and unnoticeable.
+True: 1, Predicted: 0, Text: Don't waste your money on this.  It's very pretty, but arrived broken.  I tried to contact the seller and they never responded.  I was hoping the seller would have made it right, but I did not hear back from them.
+True: 2, Predicted: 1, Text: I don't know what I was thinking of when I purchased the curtains.  I don't like them, but found another use for them, I donated them to someone who could use them.
+True: 1, Predicted: 2, Text: I like those jars they’re pretty and cute but unfortunately 3 out of 8 was damaged:(
+True: 2, Predicted: 1, Text: Cheap, poor quality elastic. Broke very quickly.
+True: 1, Predicted: 0, Text: I got these for a baby shower. They are so tiny. There is no way to incorporate these into the decorations. Very very disappointed. (And I bought 12) ugh!!
+True: 0, Predicted: 1, Text: The scent is not what I was expecting - not like driving by a citrus grove with the beautiful aroma.  However it is not unpleasant.  Will not purchase again.
+True: 0, Predicted: 1, Text: YOU CAN'T TELL THESE ARE PINK AT ALL THEY ARE SO VERY LIGHT.  THESE JUST LOOK WHITE.<br />I ORDERED PINK BECAUSE I WANT PINK.  VERY AGGRAVATED.
+True: 0, Predicted: 1, Text: Too bulky
+True: 1, Predicted: 0, Text: While the hoop is very cute and dainty, the hoops did turn colors after a month or two. I am not satisfied with this purchase, because the “sterling silver” turned black. The sizing is great in my double helix but they quickly changed tone.
+True: 1, Predicted: 0, Text: Junk
+True: 2, Predicted: 1, Text: Broke first time I put them on
+True: 0, Predicted: 1, Text: Not large at all. Couldn't get any smaller be hard to fit even the smallest cyclic in or any small flower. Horrible mold on the shape of it. Not a good deal for 10 bucks let alone 30. Stay away
+True: 0, Predicted: 1, Text: The photo made the pendant look clear and the stones looked bright. What I received was cloudy plastic filled with what look like paint chips 😔
+True: 1, Predicted: 0, Text: This item was super cute and i was thrilled to have something cute and personable to drink my coldbrew coffees in the morning.  however the second i washed it, pieces of the decorative part starting crumbling off.
+True: 0, Predicted: 1, Text: A thin piece of paper !! $11.00 for a rip off piece of paper.
+True: 0, Predicted: 1, Text: Nothing good to say so say nothing
+True: 1, Predicted: 0, Text: I was very disappointed with this ring.  You can't even tell it's a star sapphire, it doesn't stand out at all.  You really need to look at it to see a star.
+True: 2, Predicted: 1, Text: Was hard to apply to the surface
+True: 2, Predicted: 0, Text: Didn’t love it, nor the words that were chosen for the background. Wasn’t appropriate to hang in my basement where kids play. Threw it out.
+True: 1, Predicted: 0, Text: DO NOT BUY, is not like picture! very thick and a waste of money
+True: 1, Predicted: 2, Text: This was way to big for a kitchen towel and to small for a bath towel cheap decal. Nothing like I expected
+True: 1, Predicted: 0, Text: This necklace broke my neck out very cheap product This company didn't refund for my return  .
+True: 1, Predicted: 0, Text: It is cute, but I wouldn't recommend it. I have had it for a couple months now, and I am already looking for a replacement as it is scratched up pretty good. Also, it is much smaller than I had imagined. Don't buy this. Was a waste of money for sure.
+True: 0, Predicted: 2, Text: Really dull looking...I thought the colors would be brighter on the shirt....I hate them
+True: 1, Predicted: 2, Text: Not the right size. No rings came with it. So I cannot use my old one.
+True: 2, Predicted: 0, Text: Delivery date changed five times; seller won't answer emails. The final product is SO plug-ugly in person.  It looked and felt like a used diaper hanging around my neck.  The pictures make it look way better than the reality.
+True: 2, Predicted: 0, Text: My onesie is fine, not cotton so that sucks. Polyester material, and it came with a stain on the back of it. The design is not vibrant either but that's probably due to the shirt material
+True: 1, Predicted: 0, Text: Extremely delicate chain broke 2nd time wearing it trying to open to take it off
+True: 0, Predicted: 1, Text: I was being lazy since I own a silhouette machine.<br /> I could have done just as good of job and probably better since I could have just made my own custom decals
+True: 2, Predicted: 1, Text: I wore this necklace for 4 days and the ball fell off of the base losing the mustard seed!! So disappointed
+True: 0, Predicted: 1, Text: Very cute but did not realize it was only a sheet of photo paper. For some reason I thought it was on tin and could hang it up on its own. Have to find a picture frame for it.
+True: 2, Predicted: 1, Text: The problem I had with this product was no piercer was willing to put it in for me. The end was snipped off that would go in your nose. It wasn’t tapered but a flat end. Would have been painful too put it in . It looks pretty! I just wish I could wear it
+True: 2, Predicted: 0, Text: Very cool looking,  however , we cant take it off the wall because  it won't stick ! Left it on for a month and still won't stick
+True: 0, Predicted: 1, Text: $22.50 for a bookmark? Great idea, no dice.
+True: 1, Predicted: 2, Text: I haven’t had this bracelet very long and beads started falling off.  Poorly made.
+True: 0, Predicted: 1, Text: The products were cheaply made. The word family was broken. Doggies was spelled doogies, several tiles were not the same size, 2 Velcro’s were sent for each tile. Even the 7 inch tile had 2 Velcro’s. I contacted the seller and was advised that this could not be true because no one has “complained” in the 15 years they have been in business. I beg to differ. I sent the picture. No response. Shipping took forever and the tape used to make the letters is cheap. I am very very disappointed because this was going to be part of my virtual Thanksgiving background.<br /><br />The resolution offered was to ship everything back and start over. But why? The seller did not listen to my request and instead, defended the business even though I have pictures.<br /><br />The service COULD have been great if they would have offered to replace the defective items and close the case. Now, I have no use for the product because I will not have time to get the situation corrected. Very disappointing.
+True: 2, Predicted: 1, Text: It was so small that it barely fit around the nostril. It was very thin, which is fine, but the diameter was sooo extremely tiny that it did not look good.
+True: 1, Predicted: 0, Text: The clasp was very cheap plastic material, if you’re okay with that then it’s pretty cool.
+True: 0, Predicted: 1, Text: The chain of the necklace continually broke in various places over 1st, 2nd and 3rd time wearing it until we just threw it away.
+True: 2, Predicted: 1, Text: Found the "AllLivesMatter" people
+True: 0, Predicted: 1, Text: These were difficult to get in my daughters ears but I was pleased they didn’t fall out like others. However the earring was caught in her blanket & no she no longer can wear them.  Disappointed bc they were so cute
+True: 1, Predicted: 0, Text: Did not smell like lilac hardly at all
+True: 0, Predicted: 2, Text: I sent this soap to s relative and received a call from her about it. When she opened the package, ants were all over it. I told her to Toss it immediately. Do not make this purchase.
+True: 0, Predicted: 1, Text: Terrible. They put the name of the recipient in green letters behind light blue water background and you could not see his name at all. It was not a good sign at all. I had to go over it with black magic marker so that we could at least see the name of the recipient. I couldn’t believe that they even sent that to me knowing that there was no way that they saw the recipients name. It was that bad!!! NEVER AGAIN!
+True: 0, Predicted: 1, Text: The seller did replace with the same thing but it looks the same. Not giftable
+True: 0, Predicted: 1, Text: I liked the personalization and it arrived with a cute purple organza bag but the necklace broke within 3 days of my daughter wearing it. I definitely think it should of lasted longer.
+True: 1, Predicted: 0, Text: So I thought these was pictures ready to hand on the wall. Not real pictures as if I took them and went and got. Them printed out now I have to do and find frams for these... my god I just wanted to hang them in my bath room now I have to send more money
+True: 2, Predicted: 1, Text: I loved the wolf handle. The cane part did not seem as advertised. I thought it would be more of a hand made ornate cane.
+True: 1, Predicted: 0, Text: This looks like a cheap laminated xerox print out. 😒 Had I known, I would have created one myself.
+True: 1, Predicted: 2, Text: This product appears as though it’s framed or at least printed onto a frame. It comes as a single sheet photo.
+True: 0, Predicted: 1, Text: Not easy to remove didn’t like it at all
+True: 0, Predicted: 1, Text: The truck and personalization are printed in the side of the towel, not the center like most towels are. Very disappointed and unable to get a refund.
+True: 0, Predicted: 1, Text: Seems flimsy. Sharp edges.  Hard to hang without showing the nail.  Probably should have gotten a larger one- the small size isn’t exciting enough to fill up even a small space
+True: 0, Predicted: 1, Text: Pretty ring, good size for me not big, but lost stone in two months of wearing it, I don’t do any house work in jewelry, so it’s just from wearing it.
+True: 1, Predicted: 0, Text: Dislike this item earrings rusted quickly.
+True: 1, Predicted: 0, Text: Very rough representation of photo in item’s description. Little metal flakes falling off at the slightest touch. Expected more of a finished product, even when listed as “rustic”. Won’t be giving as a gift as expected.
+True: 1, Predicted: 0, Text: They are beautifully crafted but there tiny as hell..not worth money, to expensive
+True: 1, Predicted: 0, Text:  
+True: 0, Predicted: 1, Text: I am going to send this necklace back to you so you can see how it broke off and you tell me whether it was worth $32 for me to keep this broken necklace after having it two months I really liked it I liked the jade piece on it, but it is very saddening to me that you can sell something that would snap off the way this did For no reason and no way did I not abuse this when I took it off, I hung it up
+True: 0, Predicted: 1, Text: The packaging was awful!!!!<br />When I opened the package powder went EVERYWHERE!!!!!!<br />The powder is also disappointing. Not really a med or strong honeysuckle scent.  No puff to apply.<br />Will not be reordering!!!<br />Lucky I don’t sent it back!!!
+True: 0, Predicted: 1, Text: I needed to use this for my husband man cave.. but when I received the order it didn’t look like his name Ike.. so I can’t use it.. the first letter is off. The craftsmanship was nice but other than that I wasn’t too happy.
+True: 1, Predicted: 0, Text: The necklace stuck to a magnet, it doesnt even look gold, looks silver and painted gold. Its fake or I was scammed and they gave me 10k. Not happy will return.
+True: 0, Predicted: 2, Text: the pictures are very small. I was looking for something much bigger to place on my wall.
+True: 1, Predicted: 0, Text: Overall, my daughters name came out perfect!! I was so excited to have this sticker on my daughters wall. However, when trying to place it on her wall it didn't stick at all. This ONLY works with flat wall that doesn't have any type of texture to it. I returned it within a week, it's been two months and I still haven't received my refund. I've sent several messages asking about my refund and I haven't received a response back. Really bad customer service. PLEASE don't purchase if your wall has texture to it. It will NOT stick.
+True: 0, Predicted: 1, Text: I have to admit that I’m NOT impressed. Actually I was highly disappointed. It’s flimsy and doesn’t hold near as much as pictured. My husband laughed at me for getting this. If I could return this I would. I’m embarrassed that I chose it. It’s a piece if leather folded then two slots cut for two credit cards. The part for cash doesn’t have an extra piece of leather to hold it in place. He thought it looked like something a kid made. My husband threw it in the bottom drawer and giggled. Not worth the price. One star because I can’t not rate it.
+True: 1, Predicted: 0, Text: Quiero saber si es de 14 kilates es oro Real o es chapa
+True: 0, Predicted: 1, Text: Just 2 days after I received it , the knots come untied. I fixed it but sort of disappointed that it happened in the first place.
+True: 0, Predicted: 1, Text: Well i was excited about my knife than i opened it i was so disappointed the plastic wrapping stuck to it bad and messed up the paint job that was a wast of  $20 bucks thank god i didn’t order both like i going to i was so mad i tossed it in the garbage
+True: 1, Predicted: 2, Text: Did not do much with pee smells from my clients houses
+True: 0, Predicted: 1, Text: Picture of the product is deceptive.  I accept responsibility as I should have looked at description better.
+True: 0, Predicted: 1, Text: Corner bolsters do not fit the iPad 4
+True: 1, Predicted: 0, Text: Didn’t like the watch , so return the watch<br /><br />Then I came to know we have to return the item by paying the return charges and it is costing me like $36 to send back the item back to the seller<br /><br />So stay away from this seller
+True: 0, Predicted: 1, Text: Very pretty but no-one  in our house can wear them. The studs are not for any one with sensitive ears.
+True: 1, Predicted: 2, Text: Too small for a girl as advertised, but rather more for a child or toddler.
+True: 0, Predicted: 1, Text: Tiny. Paid 20 + dollars for what is essentially a color photo copy. WTH?
+True: 1, Predicted: 0, Text: I ordered 2 mug cozies.  When the pair arrived I noticed one was much larger than the other.  Neither were useable as both were too large for the mug.  I tried to return them but the seller refused stating that they were custom made for my mugs.  Upon my mentioning that the pair was 2 different sizes, she told me that was because my color choice included one with thicker yarn. When I ordered, she requested me to give her the exact measurements of my mug.  It states right in her ad that the cozies fit snugly and stretch.  I don't understand why she made one almost 6" tall and the other 5" tall when the mug itself is only 4.75" tall. If you want to drink out of your mug, the cozy has to be shorter than the mug.  They are also very loose.  Sadly, she informed me to "make it work" or place another order for a 25% discount.  Neither of which was acceptable to me.  Finally after repeatedly trying to return the items and the sellers refusal, Amazon credited my account.
+True: 1, Predicted: 0, Text: Not a good buy, just pay a little extra and get real ones.
+True: 1, Predicted: 0, Text: This bracelet was very poorly stamped.  I love the weight and fit, but what is a laco?  With the way the T is stamped in the word, it makes it look like a lowercase L or uppercase I because the stamping is not centered and the cross of the T blends into the edge of the bracelet.  I love buying handmade because of the uniqueness of every piece, and I’ve sold jewelry for years (beaded, not stamped). If I tried to give one of my customers something like this, I would be embarrassed.  The impressions aren’t as deep as shown in the photo, but that doesn’t bother me as much.  So disappointed.  Will return.
+True: 0, Predicted: 1, Text: This is so tiny that I could barely hold it let alone get it in my ear.
+True: 1, Predicted: 0, Text: ONE OF THE STONES FALL OFF AFTER FIRST USE
+True: 1, Predicted: 0, Text: I waited over a month for the band to arrive and it finally arrives, and the locking mechanism does not work so the band will not lock into place. Disappointed that I made the mistake to order from China and dissatisfied of the quality. I will not even try and return and get another one.
+True: 0, Predicted: 2, Text: Poor quality
+True: 0, Predicted: 1, Text: The quality appears to be alright but one was broken upon arrival without any damage to the box. I will update in a few months of use.
+True: 2, Predicted: 0, Text: The posts are bent and the backs do not fit the posts - they are too small.  I am hoping I have backs that will work on them, but very disappointed they are not wearable quality
+True: 2, Predicted: 0, Text: I have a little neck but this was pretty huge and cheaply made. Not really worth the money
+True: 1, Predicted: 2, Text: The description calls out a gemstone -  - what i got was painted glass beads where the paint is coming off on my skin within 1 hour of putting it on.  I didn't pay much for it, but at the very least I  expected something other than painted glass or plastic beads.
+True: 0, Predicted: 1, Text: I ordered the Yellow gold and the cor is off and looks really fake...unwearable.
+True: 0, Predicted: 1, Text: [[VIDEOID:1fe5390fd1572e217c509b40ebc15b6e]] Small for the price!  The black necklace uwful. Not so nice to put in you neck. Im disappointed.
+True: 0, Predicted: 1, Text: Beautiful stone and ring however the setting is not stable and stone will pop out and be lost if you’re not watching which happened to this one and it was a gift hence the 2 stars
+True: 2, Predicted: 1, Text: The seller did not state that the image is not in the center of the towel. It is near the left edge of the towel. This makes it difficult to hang as a decorative towels to hang in the bathroom or on the oven. I am disappointed.-
+True: 1, Predicted: 0, Text: Too big … was excited to have a “ petite” double ring. Thought it would be a flush fit but it protruded too much .. gave it to a friend .. she “ likes” it
+True: 0, Predicted: 2, Text: I gave this purchase 1 star because I ordered it October 14th.  Our Son's wedding was on October 24th.  The card arrived on October 26th, (Too Late)  Very disappointed.  While we know it's not your fault, you might want to rethink your current shipping.  It should not take 12 days to receive a card in the mail.
+True: 1, Predicted: 2, Text: I was initially impressed with the design. We kept it in storage in a dark, cool area. Checked on it to put it in our suitcase a couple months later and all the color, especially the black was faded with an ugly purplish/red color. Not that great of quality and we haven't even got to use it for our cruise yet.
+True: 2, Predicted: 1, Text: The quality of these products are not good. Way overpriced for something that I could buy from the Dollar Tree. Pictures misleading.
+True: 0, Predicted: 1, Text: There are MANY people who struggle with these things every day, and there are a plethora of medical conditions (almost any chronic illness, ADHD, autism) that make these things extraordinarily difficult. Framing them as requiring "no effort" is flat incorrect and profoundly dismissive of the challenges that many people have. It's basically a sign showing that you have a 1) profound lack of judgment to display something this offensive and 2) a shocking lack of empathy to understand that MANY people struggle with these things due to disabling illnesses and more that are NOT in their control.<br /><br />For people who say this is great for motivating a team, telling people their struggles aren't real isn't "motivating", it is SHAMING THEM, for things that may very well not be in their control. And shame actually UNDERMINES performance.<br /><br />For people who are saying they'd post this in a workplace, you are likely driving away both customers and employees (not to mention that you are basically advertising yourself as someone who doesn't provide accommodations for disabilities). I know I would walk right out the door of any business with an offensive and ableist sign like this on display - I wouldn't work in such an office, nor would I buy products/services for them, and I am not alone in this. There are plenty of other commenters that similarly find this extremely offensive.<br /><br />Yikes. Just yikes. Please do better.
+True: 0, Predicted: 1, Text: Received the cutter... NO STAMP in the package! Complete rip off and useless without the stamp.
+True: 1, Predicted: 2, Text: It fell off, the iron inside the resine was too short.
+True: 1, Predicted: 0, Text: As you can see by my photos, my property had been run over or walked on several times. I did not have to open my package as it was already torn open. The nose where the key ring connects is smashed and crack rendering the key-ring useless. Thank you Amazon for your great care and handling of my time, money, and PROPERTY! On another note: at least the driver followed instructions! Good on them!
+True: 0, Predicted: 2, Text: If there was a less than one star option i would have went with that. The product description says this is not very thick at all. The images would lead you to believe this is three dimensional....... it is not..... just a cheap one dimensional paper doll. I would recommend you pay special attn to the description and n I t trust the images. I would return it but it's not worth the time or effort.  Looks like they got me on this one.
+True: 1, Predicted: 0, Text: You can't get it wet or put it in the dishwasher. Very disappointing. Also does not seem well made.
+True: 1, Predicted: 0, Text: It is too small
+True: 1, Predicted: 0, Text: Was super cute, but it wouldn’t stay in. Had to return.
+True: 1, Predicted: 0, Text: Used one time and the sticker is peeling off already. Cute cup though.
+True: 2, Predicted: 1, Text: I was very happy to get this and use it. Was able to put it in no problem, about a week of wearing it and for the first time in 10 years of me having my nose pierced it starts hurting.. we’ll the nose ring has somehow caused an infection and bruised my piercing hole. Very sad and disappointed
+True: 0, Predicted: 1, Text: Very tiny can’t see name I threw away
+True: 0, Predicted: 1, Text: Bracelet was very nice looking at first. The silver tarnished in a matter of days. Then the entire bracelet fell apart while I was sleeping. I contacted support and response was the 30 day return window had just passed. And  sometimes they fall apart while you sleep and to restring it myself because shipping is to expensive. Save your money and buy one that’s better made and better support.
+True: 1, Predicted: 0, Text: This is not real chrysocolla. This is some cheap died stone.
+True: 1, Predicted: 2, Text: Unraveled within a couple of weeks
+True: 0, Predicted: 1, Text: Poorly made. Not safe at all.
+True: 0, Predicted: 1, Text: Very cute but buyer beware this is just a printed sign on thin paper. You will have to frame this.
+True: 0, Predicted: 1, Text: Unfortunately they lasted just a week
+True: 1, Predicted: 2, Text: This is reasonably looking sign that conveys the message needed but the chemical scent that the sign has it overtly over powering to say the very least. It’s really bad and will make anything stored next to it smell the same.. 😬
+True: 0, Predicted: 1, Text: Kinda cheesy looking in person
+True: 1, Predicted: 0, Text: I had to add some "fluff" to it to make it look like a special gift.  The idea of it is very cool but there could be some advancements in its presentation.  I wouldn't buy another one
+True: 1, Predicted: 2, Text: GARBAGE! When I opened the box the ends of the headbands were broken and white ribbon used to wrap around the head band was untwined.
+True: 0, Predicted: 1, Text: Attractive online according to the picture of the fleur de lis on the sellers door; however, it is smaller in reality. Measurements match their description but picture is deceiving! Not big enough. Returning to seller.
+True: 2, Predicted: 1, Text: Here how it went for my order:<br />took two times longer then expected to get here. Missed the gifting window by a long shot, the writing is super small, the quality is as good as a Mall Stand. Wouldn’t buy again..
+True: 0, Predicted: 2, Text: It was for a gift but disappointed in the quality and appearance.
+True: 1, Predicted: 0, Text: The measurements are wrong.. I got this shirt and it was way too big. Also, the shirt came with just the face the word vibe was not written underneath. Shirt is VERY thin and one more thing , if the size doesn’t match up, either way your stuck with paying the return price!
+True: 2, Predicted: 1, Text: Not a real crystal...plastic!!
+True: 0, Predicted: 1, Text: It was too short for my nose :(
+True: 0, Predicted: 1, Text: Came wrinkled and smaller than a normal card. Please send better packaging for your other customers.
+True: 2, Predicted: 1, Text: Small you need at least 10 for it to look decent. My waist beads i have from ghana covers them right up!. Colors are pretty
+True: 1, Predicted: 0, Text: Was not turqoues did acetone test?
+True: 2, Predicted: 1, Text: They look beautiful but both earrings broke within a week of having them. Also they are way smaller than they look and they are cheaply made. Waste of money.
+True: 2, Predicted: 1, Text: Very disappointed in the quality, this is advertised as being sterling silver - does not appear to be sterling silver to me.  Very costly for the quality of the product.
+True: 2, Predicted: 0, Text: Photography is misleading - makes it look like a bigger pendant and it's really small on a short chain.
+True: 1, Predicted: 0, Text: It came broken and unfixable
+True: 0, Predicted: 2, Text: Only 1 cuff is sold even though they show 2 in picture. Yes, it is cute, but price for 2 is not worth it.
+True: 0, Predicted: 1, Text: The quality of the gemstone is not the issue. The issue is false description when the package states there are 3 pieces of opal instead only come with 2 pieces.
+True: 2, Predicted: 1, Text: I was very disappointed in this item. It showed it in a frame in the photo. This is something I could print from my computer for free. I can’t believe they charged me over $16 plus $9 shipping for a piece of paper with words printed on card stock. My daughter was very disappointed about this! Now I have to go find a frame or send it back.  I would send it back immediately if it weren’t a birthday gift. I still might.
+True: 1, Predicted: 0, Text: It looked a little more pink in the picture but really it’s more clear 🙁
+True: 0, Predicted: 2, Text: Disappointed in appearance.
+True: 2, Predicted: 0, Text: It's just a print the size of regular computer paper.  No frame.
+True: 0, Predicted: 1, Text: It's look like a piece of trash It's ugly compared to what they show in the picture non sense TRASH TRASH TRASH I can't even read the name they write on it. SHAME ON THEM
+True: 1, Predicted: 0, Text: My son is learning to spell his name and thought it would be a great addition to the other puzzle names.  We had purchased for our oldest child.  This one doesn't even compare to the quality of our other wooden puzzle name boards.  It's super thin and lightweight, but the bright colors are pretty.
+True: 1, Predicted: 2, Text: It has a coconut derivative in it that’s not listed in this ad for the item: cetearyl alcohol. I thought I found a conditioner bar I’m not allergic to but it’s false advertising. Will be returning at least one. I’m very upset by this. We should be able to list our allergies so items like this can be ruled out from each of us or be able to filter out allergies. This is bs. I’m allergic to coconut and coconut derivatives.
+True: 2, Predicted: 1, Text: Not flexible useless
+True: 2, Predicted: 1, Text: This is just a picture on a paper. Might say it doesnt have a frame but I clearly missed it. Never would have paid for a picture I can print off the internet.
+True: 0, Predicted: 1, Text: Cute but not worth the price
+True: 1, Predicted: 2, Text: So thin you can see thru it. This would be better for ladies fashion then anything tactical. Ends where ready to split and not tied as a traditional one would be. Have used these in dessert and snow and would only use this to blow my nose.
+True: 0, Predicted: 1, Text: The chain is a very yellow gold and has no silver accents like the description states. The pendant is more of a warm gold, which doesn’t match, and looks cheap to me. I purchased this for a Birthday present and do not have time to find another gift or give the seller an opportunity to remake. Very disappointed.
+True: 0, Predicted: 2, Text: It's a  photo on photo paper, not what I thought I was getting.
+True: 1, Predicted: 0, Text: Love turquoise earrings, but after opening the box I had to look twice to make sure I was seeing them. They are tinier than tiny and inappropriate for a youngster to wear, in my opinion, without the risk of being swallowed. I could think of no useful or safe purpose for them. Packaging was nice, but going back.
+True: 0, Predicted: 1, Text: So I ordered this on May 23rd and just got it on June 20th it was $80 that wasn't worth it, if you look at the pictures the edges are uneven not straight with the plexy glass at all and the penmanship for the customization is really faint. I spent $80 on a product that was just slapped together and took a month to get, I have to keep it because I am getting married next month and don't have time to make or order a different one. Very disappointed not even with 1 star.
+True: 0, Predicted: 1, Text: In accurate description. Very tiny.
+True: 0, Predicted: 1, Text: No sirvió para nada, se arrugó el material apenas se puso. Muy mala calidad, lo tuve q desechar.
+True: 1, Predicted: 0, Text: [[VIDEOID:97c62ab6dba4fb835781e333ca664d09]] Not hperallergenic
+True: 1, Predicted: 0, Text: I order this fire my daughter’s nursery and I ordered an 18in for both names. This is no where near 18in. The writing looks just like the picture being advertised but besides that I don’t like it.
+True: 2, Predicted: 1, Text: The necklace wasn't sterling silver it changed color
+True: 2, Predicted: 1, Text: Tarnished Returned
+True: 0, Predicted: 2, Text: The wood etching is very nice, but overall this journal is not worth $29.  The rest of the journal can't be worth more than $2.  If I could do it all over again, the max I would pay would be $12.  What I'm trying to say, apart from the wood, it's not high quality.
+True: 0, Predicted: 1, Text: Can not read name on ring
+True: 1, Predicted: 2, Text: This would have been cute had it not been for the smudged ink and uneven pattern. I tried to fold it to make it even over my bed (king size) but as you can see in the photo it's uneven at the bottom.  Makes no sense to return. It will be replaced with a better quality tapestry.
+True: 1, Predicted: 0, Text: I received an empty box with no earrings inside.
+True: 0, Predicted: 1, Text: No es como te lo venden esta muy caro y no bien cómo en las fotos 👎👎👎
+True: 2, Predicted: 1, Text: This is the second ring I've bought from this seller.  I now have both of Claire's wedding bands from the show Outlander and I love them both 💜  They are both very well crafted and worth every penny.<br />UPDATE 02\17\21: I have to remove some stars from this ring, after really looking at it, this was not made by hand (as in NOT well crafted) at all, it must've been stamped by a machine because 2 out of the 3 pineapples aren't fully etched in nor are the others which I believe to be a leaf and feather maybe??  Really hard to tell.  I still wear it but wouldn't pay this much if I had seen it in person.  The other one, while not really looking like Claire's ring, is still very pretty.
+True: 0, Predicted: 1, Text: I REALLY wanted to love this necklace, but upon opening the envelope, I was discouraged to find that the pendant was paper thin, very small and too light to even weigh down the beautiful cord that it came with. Please be careful and be aware of this when ordering your pendant.<br />I would order this again in a heartbeat if the cross coin was a bit larger and much heavier.
+True: 1, Predicted: 0, Text: Very soft, nice material, not very breathable. I bought this for my son and their ridiculous mask policy at school. You can still feel your hot breath all over your face.
+True: 2, Predicted: 1, Text: This item was very cheaply made. It looked more impressive in the picture.
+True: 0, Predicted: 1, Text: The letters on the mat started fading and wearing out quickly despite light use. As an outdoor mat it should have been made better.
+True: 2, Predicted: 0, Text: They are to soft
+True: 1, Predicted: 0, Text: I bought this for a memory table for my graduation party.<br />It came missed up. It creases on it and bent.<br />Im very disappointed and upset.
+True: 1, Predicted: 0, Text: Nice concept but the chain was a dark finish that didn’t match the metal of the charm
+True: 0, Predicted: 1, Text: I love wishes. I love ornaments. ...but seriously?!?  $24 for a glass ornament with a few dandelion seeds in it?
+True: 1, Predicted: 0, Text: I am a big crafter so I’ve done items like this before, very cute, but very hard to put on evenly. Once I got it on, every night it bubbles up! Making me lose my mind. I would not recommend.
+True: 1, Predicted: 0, Text: The stone was dull in color and very cloudy. I did not expect it to be exquisite for the price, but I did expect more than what I got.
+True: 1, Predicted: 0, Text: Comes 8 inches larger than they specify
+True: 0, Predicted: 1, Text: I reported that these were not delivered to me. They said since it showed delivered basically oh well. This isn't ok and I will not order from them again. Beautiful work. Sad.
+True: 0, Predicted: 1, Text: Seller hard to deal with !
+True: 0, Predicted: 1, Text: Cheap looking, was disappointed.
+True: 1, Predicted: 0, Text: Not a good quality shirt much less screen printing. Fits very loose, and looks as if the screen print will fade quickly. The print looks very cheap. Would like to return, but they haven’t verified they would allow returns... Up your game, people!! What gives?
+True: 1, Predicted: 0, Text: Make sure you check the size - this was not at all what I was expecting for the price.  It's the size of a regular sheet of paper.
+True: 2, Predicted: 0, Text: These euro shams looked pretty online, but once I received them and put them on my pillows the ruffles folded down and looked terrible displayed on my bed. I am returning them, they either have to be redesigned or show on line that the ruffles don't stay up. I would give them 3 stars but I'm giving them 2 or less because now I have to pay for shipping to return them. Not a good deal. I'll have to do my homework better next time.
+True: 1, Predicted: 0, Text: They have totally lost their shape and are unwearable.
+True: 0, Predicted: 1, Text: Too tight on my neck and not comfortable to wear.
+True: 0, Predicted: 1, Text: This nose ring was so sharp to put in and horribly uncomfortable! Waste of money
+True: 1, Predicted: 2, Text: Pretty bad quality....I would not recommend this product.
+True: 0, Predicted: 1, Text: They really don't hold up after 5 or so uses and washes.  The material is visibly worn down and stained despite washing with stain remover and bleach.
+True: 0, Predicted: 1, Text: Broke after the first day. Got a replacement but still . Do not wear to sleep or pretty much while you are doing anything because it will break rt away
+True: 0, Predicted: 1, Text: Cheap and didn’t come on time when I needed it
+True: 0, Predicted: 1, Text: Dissapointed because i recieved product with miss spelling even though i check 4 tomes to make sure it was written properly. Plus it just a cover, no foam included
+True: 0, Predicted: 2, Text: This plate is extremely disappointing. I bought this for my mom who is a HUGE star wars fan. The picture is extremely misleading. It looks like a chrome cover with 3D features. It's a typical flat plastic piece which was broken upon opening. Easily the worst thing I've ever purchased on amazon.
+True: 0, Predicted: 1, Text: It's not AT ALL how it's was in the picture.  Completely disappointed. And 5 mins of my son wearing it, it broke. Un real...
+True: 2, Predicted: 0, Text: Not at all what I ordered. It came small and I selected 24x30 option. It was not printed centered. Also it was supposed to be a canvas! Waste of $46. I could’ve printed this off of my computer myself.
+True: 1, Predicted: 0, Text: Smells horrible! Yuck I put some of it in the litter box.
+True: 1, Predicted: 2, Text: Complete waste of money product has barely any sand and doesn't smell anything like what it's advertised as
+True: 1, Predicted: 0, Text: It was too small for my piercing
+True: 2, Predicted: 0, Text: This case is beautiful, but unfortunately isn’t good for protection. The initial case I ordered was broken and did not fit, which the company was happy to replace for me at no charge. Sadly, the replacement fit at first, but broke in the same spot not even two weeks into using it.
+True: 0, Predicted: 1, Text: Way too small and the stud bent right away.
+True: 1, Predicted: 2, Text: Leaves black under my chin.  POOR QUALITY
+True: 1, Predicted: 2, Text: This is false advertising.  This was meant to be a gift for someone that loves a YETI cup.  Maybe it's a great cup, but I didn't pay 47 bucks for a knock off.  Seperate your listing for makes and models.  Is it a Ford or a Tesla, surprise!
+True: 1, Predicted: 0, Text: Wrong color sent.  Okay craftsmanship at best. Would not purchase again.
+True: 1, Predicted: 0, Text: Not happy the ring is not cornflower blue it is a lot darker hard to see the star. I had a ring stolen was trying to replace it. Not the same
+True: 1, Predicted: 2, Text: The wire to get through my ear is to thick.  I can not push it through my ear.  I'm sad
+True: 1, Predicted: 0, Text: Cheaply made for price
+True: 0, Predicted: 1, Text: Although the earrings were very pretty, the lever part was for a child size ear.  I have many of lever back earring including some from Victorian era and the lever is not that small.  I could have made the change as I make jewelry, but paying for something you should not have to recontruct it.  Too bad.
+True: 1, Predicted: 0, Text: It’s a cheap laminate sticker on a cup. Total rip off
+True: 2, Predicted: 1, Text: the Stone was very beautiful,  The setting actually bent when I tried to put on the erring.  I send back immediately.  Thin and bendable setting:(
+True: 2, Predicted: 1, Text: Loose not fit with my airpod pro.
+True: 1, Predicted: 0, Text: The earrings caused an allergic reaction in my ears after wearing for 3 days. The earrings even tarnished in 3 days. After cleaning the pair (because I love the design and fit!) one earring remains "pitted". See picture. I bought these during the COVID lockdown but will wait until stores re-open to purchase personal items such as earrings. Expensive lesson learned.
+True: 1, Predicted: 2, Text: Not sticky enough so peels at various points (on the plus side, it's easy to remove). Didn't quite fit Quest so first had to be trimmed and it just doesn't lay right on non-flat headset surface. I'll probably put two small googly eyes on instead (each with a small enough surface area to be<br />on a more or less flat part of the device).
+True: 2, Predicted: 0, Text: Although very pretty, I was deeply disappointed when I received my order because it did not appear on the sellers page to be as cheap as it is when you receive the order! I honestly haven't even used it because it's cheap costume jewelry in my opinion and I've been getting body piercings done for 18 years and counting.. I've boughten and have seen just about all there is on the market. I feel like my opinion is a valid one. Although my skin isn't sensitive to fake costume jewelry, I've never bother to put cheap body jewelry in my piercings!
+True: 0, Predicted: 1, Text: No stars. It was horrible.
+True: 1, Predicted: 0, Text: Awful product. Tasted nothing like baja blast.
+True: 1, Predicted: 0, Text: Size is off runs small
+True: 0, Predicted: 2, Text: This is absolutely NOT what is pictured.  What is pictured looks to be all metal with the shimmering disc in the middle, but it's not.  It's a metal pendant backing, but the rest is a sticker - the whole stargate and event horizon are a sticker.  If I could give 0 stars, I would.
+True: 0, Predicted: 1, Text: The "birch" is plywood.  (The quality of the set is like something you could find at your local Dollar Tree.)
+True: 2, Predicted: 1, Text: Es muy delgadita nada q ver como se mira aquí la verdad no me gusto
+True: 1, Predicted: 0, Text: I immediately return item when I open it and seen these were cheaply, made with a enormous price......
+True: 0, Predicted: 1, Text: Extremely disappointing. Dough stuck (even with flour dusting), impressions were inferior, and the plastic parts warped in the top rack of my Bosch no-heating-element-dishwasher. One-time use; no desire to replace. A waste of money.
+True: 0, Predicted: 1, Text: Very cheaply made
+True: 0, Predicted: 1, Text: first time put on bracelet wire broke and stones shattered all over the place
+True: 2, Predicted: 1, Text: Beautiful but too small.
+True: 2, Predicted: 1, Text: These bracelets are very tiny and much smaller than the picture showwed.
+True: 2, Predicted: 1, Text: The chain broke 2 weeks after purchase
+True: 0, Predicted: 1, Text: I already send it back to the address they gave me wrong spelling the parents was not happy to thin I mail it out 7/21/22
+True: 1, Predicted: 0, Text: The actual conditioner bar is ok. Nothing special, nothing terrible, but one of the main reasons I bought a conditioner bar vs a bottle at the local store was because I am trying to reduce my plastic waste. But this thing was wrapped in 3! Layers of plastic in addition to the amazon packaging. The metal tin was in a plastic bag. Sealed with plastic wrap and then inside the tin the actual bar was wrapped in plastic. So in-necessary!!
+True: 1, Predicted: 2, Text: These candles smell nuts in the store and we had extremely high hopes for them. So good in fact you probably want a cologne with some of the scents or your house to have their scents permanently embedded in them.  HOWEVER.  when burning they do not smell at all. I've tried 2 of them over this holiday weekend, burning for a few hours each.  Maybe a 5&#34; radius around the candle if your lucky smells good. No where near a room filling ability.  I bought 3 of these candles for $60.  I know, I know, but we are candle sluts.  Very disappointed in this product.  Other brands that we find at niche stores or discount stores with unique scents like  whiskey, suede/leather, tobacco, etc, for half the price blow these away.  Be forewarned.
+True: 1, Predicted: 2, Text: This product is not worth it,  very hard to take off paper and transfer to wall.
+True: 2, Predicted: 1, Text: Needed this necklace to be the color on the ad. It wasn’t
+True: 1, Predicted: 0, Text: The idea is great BUT when you leave on the mail box for a pick up and it rains ..... it rusts and is eventually<br />unreadable. It only took two rains to start the rusting.<br />Good idea but should have been tested first!
+True: 0, Predicted: 1, Text: Not happy  with  product.
+True: 1, Predicted: 2, Text: Came broken
+True: 0, Predicted: 1, Text: These look like they were generated from a home computer printer. The words and date are tiny and illegible.
+True: 1, Predicted: 2, Text: Arrived late and damaged
+True: 0, Predicted: 1, Text: Extremely thin flimsy leather.
+True: 0, Predicted: 1, Text: Was not happy the band shown was white with black letters but I got all white can’t even see the letters
+True: 2, Predicted: 1, Text: It definitely needs to be framed. I had to spend extra money to do it myself.
+True: 2, Predicted: 0, Text: It looks like I've had this for years.
+True: 1, Predicted: 2, Text: Came shattered
+True: 0, Predicted: 1, Text: For the cost,Need more scent
+True: 0, Predicted: 2, Text: 12.99 for an 8x10 picture is ridiculous
+True: 0, Predicted: 1, Text: not what I was expecting for what I payed for just want a full refund or to return it
+True: 2, Predicted: 0, Text: It was very pretty. I really liked it but it broke at the clasp after one week.
+True: 1, Predicted: 2, Text: The legs became warped after a week. Not sure what to do, but was lead to buy because of reviews I read. Be weary before buying, maybe I just got a bad one 🤷🏼‍♂️
+True: 1, Predicted: 0, Text: So, just to let everyone know, this is not an album. This is a framed piece of paper with the customizations on the paper the customer wants.<br />My issues: Although, it does say it is a piece of paper in the product description, for $50 you'd expect something with a little wow factor. Upon seeing the product up close, it became apparent to me this was not worth $50. I requested a refund. The seller wanted me to pay the shipping cost of the product stating, "We have no hopes of resell on this:)  Once the frame is received back, a full refund will be issued." Re-sale what...? The piece of paper? It's a piece of paper! This frame from Walmart isn't worth $50 either. I'm just letting anyone who might look at this know what you are getting. It a customized piece of paper in a Walmart frame for $50. Yes, the seller will refund your money, after you pay them to ship it back. Be aware.
+True: 1, Predicted: 0, Text: The size was perfect but mine got deformed
+True: 0, Predicted: 2, Text: Looks cool with the lights sitting on the shelf. Sadly, both the Jedi and Sith versions are so delicate that our home heater was slightly blowing on them and now they are tilted and warped. Too expensive. Too cheaply made. Only lasted 5-6 months.
+True: 1, Predicted: 0, Text: Was pretty disappointed with the quality. The gold lettering was already rubbed off on part of the keychain when I received it. Does not look very nice at all but the keychain itself seems to be okay quality. Was hoping to give this as a gift but it just looks like it’s already been used due to the wear.
+True: 1, Predicted: 0, Text: No holes on the backs. Good luck hanging them.
+True: 0, Predicted: 1, Text: Omg..all stuck together and couldn’t even use them. Cost more to ship back than worth it.
+True: 1, Predicted: 0, Text: See above
+True: 0, Predicted: 1, Text: I thought this was a mirror. The price was outrageous for a sticker
+True: 1, Predicted: 0, Text: Not what was pictured. I wanted something oddly shaped like the description showed. This is not the ring I ordered. Also, the back where it sits against my finger is uneven and sharp and scratches my finger. Very disappointed.
+True: 1, Predicted: 0, Text: Cheap and SHARP!! A waste of money. Not functional or worth showing
+True: 2, Predicted: 1, Text: Not worth the money!
+True: 1, Predicted: 2, Text: I was so DISAPPOINTED  qhwn I saw the size. What a waste.
+True: 1, Predicted: 0, Text: Picture doesn’t come with frame as shown on  Amazon. So you’re paying $30 for a glorified poster. I have lost faith in Amazon this will be my last purchase through them.
+True: 2, Predicted: 1, Text: Do not buy. You can not get this in. Unless you want to injure yourself and make your nose bleed, like I did. No matter how how I tried or how hard I tried to injure myself, it still won't go in. I have had a nose ring for 15 years, so I'm not new to this. I have used every type of nose ring out there. Don't buy, it's not worth it.
+True: 0, Predicted: 1, Text: Name spelling was incorrect
+True: 2, Predicted: 1, Text: I wrote a review in regards to this earlier & gave it a 5.  Well, guess what?<br />IT TURNED!<br />IT TURNED!<br />IT TURNED!<br /><br />DO NOT BUY!<br />Do not buy!
+True: 1, Predicted: 0, Text: I’m not sure if I just got too big of a size because the rest of the reviews are so good. But this thing is sharp. The two points of it dug into my skin inside and out. Every time I tried to blow my nose tissues ripped on it and got stuck.<br />I was afraid to size down too far because of getting it in, and I’m glad I didn’t cause it did take a little pressure to get it in, and it kinda hurt lol.<br />I’m returning it, it was nice quality as far as I could tell but i must be the only person who doesn’t wanna be stabbed every time there’s anything touching my nose 😂<br />Def don’t buy if you’re a sneezy person, ouchie.
+True: 2, Predicted: 1, Text: It arrived horribly bent. Even though the cost was so low, I assumed it would be more substantial than it was in terms of the paper and the the foil, but oh well. Not really worth the $10 for it to arrive like this.
+True: 1, Predicted: 0, Text: Necklace was nice and attractive but the chain was too short. Would like an option for a longer chain or chain extension b
+True: 0, Predicted: 1, Text: I was very disappointed. It is very dainty and lightweight, but the metal coating is such poor quality, my piercing instantly rejected it and became infected. Save yourself the trouble and pain.
+True: 1, Predicted: 0, Text: Ordered this on the 3rd, received it 2 weeks later. Order tracking was useless and I do not recommend this product or seller. If I could give 0 stars, I would
+True: 2, Predicted: 0, Text: These aren’t gold. And there’s Definitely nickle in them. I’m allergic and my ears swell up immediately
+True: 0, Predicted: 1, Text: It's very low quality, a piece of paper... I was disappointed.
+True: 1, Predicted: 0, Text:  
+True: 0, Predicted: 1, Text: I ordered 5 shirt got 4. The 2 large was supposed to be adult got 1 youth.<br /><br />Ugh.. we are here on vacation with 1 missing shirt and 1 too small. Very disappointing.
+True: 0, Predicted: 1, Text: Partial print doesn't work well
+True: 2, Predicted: 1, Text: Horrible quality chain. Forced me to go to a jeweler to get a better one. Turned green after a few days.
+True: 2, Predicted: 1, Text: It looks thicker than it is in the picture shown once you put it on It slides off of the top part of the ear. Not that impressed.
+True: 2, Predicted: 1, Text: Nice design but very small and it doesn’t get used.
+True: 0, Predicted: 1, Text: The chain broke immediately after my first use. I rotated the necklace so I could undo the clasp, and it snapped! Bummer.
+True: 0, Predicted: 2, Text: The sample shows black printing. Mine showed up with navy blue.  Not happy!
+True: 1, Predicted: 0, Text: Ring sticks up way too high too m a fraud it wld catch on everything. It looks so dainty in the picture.
+True: 2, Predicted: 1, Text: I love the size, but it’s now all tarnished and looks off. Not very pretty. Not worth the money
+True: 2, Predicted: 1, Text: I understand the sticker was small but the words are way to small to see, useless
+True: 2, Predicted: 1, Text: Such a wast of money. This is the smallest flimsiest metal that you can tell they just snipped from a spool of long wire and made circular. Don’t wast your money.
+True: 0, Predicted: 1, Text: I have dry skin and I thought I would love this product. I used lotion and body oils to keep my skin hydrated. This stick applies easily. The scented products are lovely, but I did not like the smell of unscented product. I used this stick lotion after showering and massaged it in, but it didn't absorb and I had a waxy coat on my skin that I didn't like. It just was too heavy and left me feeling greasy.<br /><br />May work for some people, but was too heavy and left a waxy coating that didn't work for me.
+True: 2, Predicted: 0, Text: I’m definitely going to be returning this.<br /><br />Unfortunately it looks and feels super cheap, like $10 cheap. I could deal with that because it wasn’t terribly expensive and you get what you pay for. BUT, I had the bracelet personalized and the personalization text on the inside of the bracelet is UPSIDE DOWN. The personalization text one the outside of the bracelet is facing one direction and the personalization text on the inside of the bracelet is facing the opposite direction which is definitely a deal breaker for me.
+True: 0, Predicted: 2, Text: I’m all about supporting small businesses but the amount you get fit the price was laughable. You could easily cut this amount in 5 mins. I ended up having to make my own to fill 7 total boxes when I was expecting this to be enough from the reviews. Unless you only put a very minimal scarce amount in a small box, you must buy multiple of these. Not worth it for this price. Go to the dollar store, buy tissue and cut your own in a couple of minutes.
+True: 0, Predicted: 2, Text: Lines running through Charlie Browns head. Poor quality.
+True: 1, Predicted: 2, Text: Cheaply made. Cannot even read the engraving unless you hold it under a light. Definitely would not recommend this for a nice gift for someone as the quality is underwhelming.
+True: 1, Predicted: 0, Text: I have other line art that is awesome. This picture is NOT. It looks so amateurish like it was drawn with a thick magic marker. So I returned it and bought the "pinky swear" art piece from another source. So happy with the new one.
+True: 0, Predicted: 2, Text: By far the worst phone case ever bough!! the craftsmanship is horrible please be aware of the product before you buy!!!
+True: 2, Predicted: 1, Text: This nose ring it hardly adjustable and was gigantic
+True: 0, Predicted: 1, Text:  
+True: 0, Predicted: 1, Text: The seller did not have a photo of Michigan on her site. So when I got it, its way smaller than I thought and the word is separate between the upper and lower peninsula and I am not sure if I had seen the sample, I would have bought it.
+True: 1, Predicted: 0, Text: Extremely thin and flimsy item will not stay put. The slightest touch and its gone. I would call it disposable.
+True: 1, Predicted: 0, Text: The bracelet has no purple color of amethyst at all.  A cheap looking silver dangling clasp which is not displayed  with thread showing through  appears to be holding these so called real stones together. Very disappointing and will return. Just received 10 minutes ago.
+True: 1, Predicted: 0, Text: ABSOLUTELY TERRIBLE!!!<br />One doesn't even match the other!!!<br />SO ANGRY WITH THIS PURCHASE
+True: 1, Predicted: 0, Text: It is very cute, but it arrived broken.
+True: 1, Predicted: 0, Text: Not gold. I wore it for two days and my nose started hurting. When I took it out , it was changing colors. Nose was sore for a few days.
+True: 2, Predicted: 1, Text: Screws loose on delivery I tightened them and added some do to there only being 2 in it.
+True: 0, Predicted: 1, Text: Cheap product. Had to bend open to put it in and then bend back once in like a bubble gum machine ring from when you were a kid. Did not fit snug.
+True: 1, Predicted: 0, Text: I received an empty envelope so I applied for a refund but they wanted me to return the product. I told them I didn't receive anything so they sent me the replacement and have now charged me twice. It was a great card but not that great.
+True: 0, Predicted: 1, Text: Very uncomfortable very hard to keep in place, I would not recommend
+True: 2, Predicted: 1, Text: nothing like photograph  not live edge. poorly made rectangle of cheap thin wood. do not purchase
+True: 1, Predicted: 0, Text: My son is learning to spell his name and thought it would be a great addition to the other puzzle names.  We had purchased for our oldest child.  This one doesn't even compare to the quality of our other wooden puzzle name boards.  It's super thin and lightweight, but the bright colors are pretty.
+True: 2, Predicted: 1, Text: Cute ornament but no time or quality was taken in customizing the ornament and it was a pricey ornament.  I was very disappointed.
+True: 2, Predicted: 1, Text: This is a gorgeous shoe rack, but I am really disappointed that one of the pieces of wood arrived chipped/damaged (see pictures). I thought maybe it wouldn’t look as noticeable when put together, but it really does. I am hoping seller will read this, as this was rather expensive.
+True: 1, Predicted: 0, Text: Before I even open the inner wrap... it’s a broken piece.
+True: 2, Predicted: 0, Text: It is very dainty, but the chain is too small! It is about 16 inches in all, but the chain should be 16 inches before the extra links. Should be meant for a young girl. It does say it's about 15+ inches, but I didn't notice until after purchase.
+True: 1, Predicted: 2, Text: The pictures on Amazon are bright and colorful. The actual stones are  drab brown. I was so excited to order and so disappointed when I got the jewelry. It is not returnable so be careful when ordering
+True: 1, Predicted: 2, Text: DON'T BUY THESE ARE FAKE ONYX PAINT IS CHIPPING OFF THESE PLASTIC BEADS
+True: 0, Predicted: 1, Text: They fell apart as house shoes only and pretty much only on carpet in about 2 weeks there was a hole in the bottom of the shoe and the seam was pulling apart on the other
+True: 0, Predicted: 1, Text: I thought the pictures came in a frame but they didn't  so I'm a little disappointed
+True: 1, Predicted: 0, Text: Cheapppppppppppppppp<br /><br />So disappointed the pictures make it look strong and sturdy and over all NOT cheap but it’s so cheaply made and it’s just hot glued on a stick and it curls up and the stick is just tooo small and what a waste of money
+True: 2, Predicted: 1, Text: I bought this table from another vendor (same price) and wow I am so incredibly disappointed. The top looks nothing like the image here but moreso something I could make myself from old, weathered pallets. There is no finish at all and looks like it was quickly thrown together and sanded before shipping. And more sanding will be needed so my young children don’t get splinters because the top is still quite rough - not at all what you would expect for a coffee table surface. The nails are visible in the top and there’s one on the side of the top that is protruding and will need to be sanded down so as to not scratch or cut someone. I’ve written the vendor to see what I can do to return the table. I was so excited to find a real reclaimed wood table that wasn’t 400 dollars but too good to be true.
+True: 2, Predicted: 1, Text: Just a print out on simple photo paper... Spend the $ .50 and print one yourself.
+True: 0, Predicted: 1, Text: I am very disappointed. I ordered a second hat that did not have the playing cards and poker chip on the hat...  Can the Company sent it to me??? I will glue it on.  Also, the foam is separating where the different colors of foam meet... Not the quality of the first hat I ordered...
+True: 2, Predicted: 1, Text: Not what I was expecting. This was literally a copied 8x10 print.
+True: 1, Predicted: 2, Text: came apart at connectors,glue wore off after wearing 4 or 5 times.
+True: 0, Predicted: 1, Text: Although the packaging is cute, that was about all that I enjoy about these. The wood of the match is extremely dry and weak. EVERY match I use breaks. I’ve had 3 matches out of 50 stay in tact. It is very frustrating. Overall, I am not buying these again. I’d recommend you don’t either.
+True: 1, Predicted: 0, Text: I wanted to love thos but the pendant falls off fast! Haven’t had mine for a month and it broke off and is gone! Im so upset about that! The chain it comes on isn't good at all.
+True: 1, Predicted: 0, Text: Looks and feel like plastic earrings.
+True: 2, Predicted: 1, Text: The candles smell pretty good. A bit disappointed as the smell doesn't last that long. Yankee candle has a longer lasting smell then ChicWick. For thr price i thought these were a little expensive. The one pro was the customer service people were very sweet.
+True: 2, Predicted: 1, Text: Ordered for my son. He was excited..me not so much. But he loves this kinda stuff. Y'all nailed the smell😬
+True: 2, Predicted: 0, Text: Very short
+True: 2, Predicted: 1, Text: For the price I could’ve done myself. Came in another box that looks like it was damaged so the folder it came in was bent and so were the prints. Waste of money.
+True: 2, Predicted: 0, Text: The size
+True: 0, Predicted: 1, Text: It's too small and won't fit on the dock.
+True: 1, Predicted: 2, Text: They seem like such a fun idea. The size and color of the writing and the font can make them very hard to read.
+True: 0, Predicted: 2, Text: This necklace is beautiful and very dainty.  This is the 3rd one I've bought.  As careful as I've been with them, each chain has broken within weeks of purchasing them.  I kept seeing reviews recommending a stronger chain so I was hoping each time I bought another one that maybe they had used a stronger chain, but unfortunately, they have not.  As pretty as this is, I wouldn't recommend it.
+True: 1, Predicted: 0, Text: Cute dress, name came back incorrectly and having problems getting a mailing label to return the dress. Would not buy from them again.
+True: 2, Predicted: 0, Text: When peeling the paper from the clear backing, the vinyl stayed on the paper, and couldn’t apply to window
+True: 0, Predicted: 2, Text: Came long after Christmas.  What a waste.
+True: 2, Predicted: 1, Text: Well, I requested my name to be written correctly and ended up getting all lower case?! Genius who doesn't know names start with a capital letter!
+True: 2, Predicted: 1, Text: I love the look of this shirt!  However, the vinyl used is very cheap....feels "crunchy" to touch and I really don't believe it will last through the baseball season.  Not sure why they chose this vinyl...my friend ordered this shirt last year from the same vendor and hers is not like this.  Very disappointed.
+True: 0, Predicted: 1, Text: Very disappointed. Very small -couldn’t be worn by an adult.
+True: 1, Predicted: 0, Text: This was gold wire that was cut and not even filed down to be smooth.  Cut my toe
+True: 0, Predicted: 1, Text: if you want your party sign to come over 2 weeks later, this is your guy!
+True: 2, Predicted: 1, Text: Thought these were going to amazing when I purchased them from the looks of the photos. Once they arrived I found they were stiff as a board, more like stalks of hay. After they were professionally installed, I went to sleep that night and woke SEVERAL times with scalp numb from how hard these are. Took them out after 3 days and bought some AMAZING soft wool dreads on ETSY. WASTED my money on these though. Shame...
+True: 2, Predicted: 1, Text: Had a really bad allergic reaction, would not recommend it to people who have allergen issues.
+True: 0, Predicted: 1, Text: Have requested return over a week ago, no response from seller.  Item not quite up to par.
+True: 1, Predicted: 0, Text: Powder was not sealed. Did not come with a puff.  Description said 8 oz, but the container is so small, I do not believe it is 8 oz.
+True: 0, Predicted: 1, Text: I was very excited when I received my order. I immediately opened it and did sniff check. It smells good, and you can smell the calming lavender scent. But, the oil's scent does not stay longer.
+True: 2, Predicted: 1, Text: Won't stay on the clasp comes off a lot
+True: 1, Predicted: 0, Text: The material it’s made from is not good, ended up in the garbage
+True: 1, Predicted: 0, Text: We bought these in November for Christmas gifts. The adult size didn’t fit our daughter, but we did not know that until after Christmas.  On the 27th, we put in a request to the company to refund/exchange and they denied it saying it was past the 30 day.  ITS A CHRISTMAS GIFT!  I am extremely disappointed that they denied it. The clincher is that I can’t even contact the company!!  All in all cute shirts, but I have no patience with poor customer service and no way to contact a company with questions.
+True: 2, Predicted: 0, Text: I gave it a 1 star for the color as it matched my bathroom accessories but it is so freaking small! I'm so disappointed.
+True: 0, Predicted: 1, Text: I think it looks pretty cool but would look much better with a glass cylinder to house the light. Also, no hardware to hang is included and although the manufacturer seemed nice, was pretty unhelpful with recommendations. The wire and housing are IKEA. I had to figure out and purchase bracket to hang myself with the help of two electricians.
+True: 2, Predicted: 1, Text: Not made to the quality I expected
+True: 1, Predicted: 0, Text: This bracelet had no color whatsoever...I'm really not convinced they were even opals.
+True: 1, Predicted: 0, Text: Such a disappointing print of a really great design. The sticker is so dark that you cannot see any of the delicate details - you woildnt know it was a d20 without having seen the image online first! All 3 stickers came out this way. Very dark, very disappointing.
+True: 2, Predicted: 1, Text: Loved the idea of this product, loved being able to spread seeds and have the name on it.  Way to small, hard to read.  Would not recommend unless they increased the size..
+True: 2, Predicted: 0, Text: Was not as Aw picture
+True: 0, Predicted: 1, Text: Bad quality glue, dusk colors, won't recommend this one
+True: 1, Predicted: 0, Text: Just go to the store and wrap a circle from wire like material.
+True: 0, Predicted: 1, Text: So disappointed.  Three of the items in the gift box were not sealed.  One item looked like it had been a sample, it looked used.  Something leaked inside the box damaging the outside of the gift box.
+True: 1, Predicted: 0, Text: Just got it. Worn it a few times. The circle has faded and tarnished. Not silver. Unable to clean Plan on returning it. Looked so pretty. I’m very dissatisfied
+True: 1, Predicted: 2, Text: I knew what I was getting on quality. What I did not realize, and now do somewhat by looking at item more online, is that there is a faint design on the photo paper that makes the background look dirty. I actually tried to wipe it off! It does not compliment the other design elements on the print. I don't even think I could display. Impulse purchase that I regret.
+True: 1, Predicted: 0, Text: I specifically asked if my remarkable 2 would fit in the case with the cover on.  they assured me it would, you can check the questions.  I eagerly awaited my order only to find that it doesn't actually fit, the case doesn't even come close to latching with the cover on.  I am disappointed in the inaccurate info I received and the return process has proven difficult thus far.  Sad,  a great quality product that is useless isn't really a great product.<br /><br />Anyone that has a remarkable 2 knows you don't want to store it in anything without the remarkable protective cover attached.
+True: 1, Predicted: 0, Text: This is small and cheap and can’t hold much money at all so if all you have is a few and I mean a few dollars then buy it otherwise DONT!
+True: 0, Predicted: 1, Text: Loved the look but it is just thin paper and too fragile to hang. I laminated it for sturdiness
+True: 0, Predicted: 1, Text: I was very unhappy with this, for one it was very expensive and when I received this it didn’t look like the photo. The colors were dull and it did not have the 3D effect like in the photo. There is a cut off line on the end of the flowers that just doesn’t look good. After getting my return shipping label it took a month to get my refund. I’m not one for writing bad reviews but I was very disappointed with this.
+True: 1, Predicted: 0, Text: I bought this as a gift, fortunately it came early. One of the boards that the handles are attached to pulled completely off and the other one became loose the very first time I picked this up, there was nothing on it even. The boards are simply nailed with an air nailer from the bottom. I had to  pull the nails out, and then I used wood glue and new nails to reassemble the piece. For the price of this thing the least the builder could do is use 25 cents worth of wood glue along with the nails.
+True: 1, Predicted: 2, Text: Its not a sign its just a poor quality print on photo paper
+True: 0, Predicted: 1, Text: i purchase the item i never got it on time when i got it it pops the quality is awful for what you pay.
+True: 2, Predicted: 0, Text: The fabric on this dress is very thin and see through. The print is very cute but the colors look washed out and not even close to the vibrant print shown in picture. We use it as PJ's.
+True: 0, Predicted: 1, Text: The ring doesn’t look like a citrine at all. Very disappointed
+True: 1, Predicted: 0, Text: Breaks after first use
+True: 1, Predicted: 0, Text: broke in first week wearing it. I was just putting up my hair in a ponytail and it suddenly fell apart. Wish I knew sooner wouldn't last because waited awhile to wear it and now cannot return.
+True: 0, Predicted: 1, Text: I feel like I could have bought this at Clair’s for $5. It’s a thin hoop and cute, but such a huge rip off and waste of money!
+True: 1, Predicted: 0, Text: This product is very very nice looking. However I really expected more than a copy and paste type print.<br />I gave the artist and song title.<br />The print is obviously a cut and paste.<br />Just some common sense punctuation would be great.<br />Pretty much ruins it for us.
+True: 1, Predicted: 0, Text: i cannot see  the star

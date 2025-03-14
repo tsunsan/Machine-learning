@@ -231,7 +231,7 @@ def validate (filename, X_unseen, y_unseen,path):
 
 validate('models/svm_model_12k.pkl', X_unseen, y_unseen,'validated/svm12k_validated.txt')
 validate('models/nb_model_12k.pkl', X_unseen, y_unseen,'validated/nb12k_validated.txt')
-validate('models/xgb_model_12k.pkl', X_unseen, y_unseen,'validated/xgb00_validated.txt')
+validate('models/xgb_model_12k.pkl', X_unseen, y_unseen,'validated/xg12k_validated.txt')
 
 
 
