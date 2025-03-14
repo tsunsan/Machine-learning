@@ -1,0 +1,30 @@
+{'Fold Index': 1, 'Confusion Matrix': array([[13,  7,  0],
+       [ 8, 10,  2],
+       [ 2,  4, 14]], dtype=int64), 'Accuracy': 0.6166666666666667, 'Precision': 0.6388026224982747, 'Recall': 0.6166666666666667, 'ROC AUC': 0.8291666666666666}
+{'Fold Index': 2, 'Confusion Matrix': array([[16,  2,  2],
+       [ 8, 12,  0],
+       [ 3,  4, 13]], dtype=int64), 'Accuracy': 0.6833333333333333, 'Precision': 0.708641975308642, 'Recall': 0.6833333333333333, 'ROC AUC': 0.8424999999999999}
+{'Fold Index': 3, 'Confusion Matrix': array([[13,  7,  0],
+       [ 6, 11,  3],
+       [ 1,  3, 16]], dtype=int64), 'Accuracy': 0.6666666666666666, 'Precision': 0.6719715956558062, 'Recall': 0.6666666666666666, 'ROC AUC': 0.8279166666666667}
+{'Fold Index': 4, 'Confusion Matrix': array([[14,  6,  0],
+       [ 4, 13,  3],
+       [ 3,  4, 13]], dtype=int64), 'Accuracy': 0.6666666666666666, 'Precision': 0.6814613526570048, 'Recall': 0.6666666666666666, 'ROC AUC': 0.8379166666666666}
+{'Fold Index': 5, 'Confusion Matrix': array([[16,  3,  1],
+       [ 7, 11,  2],
+       [ 1,  6, 13]], dtype=int64), 'Accuracy': 0.6666666666666666, 'Precision': 0.6763888888888888, 'Recall': 0.6666666666666666, 'ROC AUC': 0.8033333333333333}
+{'Fold Index': 6, 'Confusion Matrix': array([[11,  9,  0],
+       [ 4, 13,  3],
+       [ 2,  5, 13]], dtype=int64), 'Accuracy': 0.6166666666666667, 'Precision': 0.6470134350036311, 'Recall': 0.6166666666666667, 'ROC AUC': 0.8191666666666665}
+{'Fold Index': 7, 'Confusion Matrix': array([[10,  9,  1],
+       [ 4, 16,  0],
+       [ 3,  5, 12]], dtype=int64), 'Accuracy': 0.6333333333333333, 'Precision': 0.6815485168426344, 'Recall': 0.6333333333333333, 'ROC AUC': 0.8120833333333333}
+{'Fold Index': 8, 'Confusion Matrix': array([[11,  6,  3],
+       [ 8, 10,  2],
+       [ 3,  4, 13]], dtype=int64), 'Accuracy': 0.5666666666666667, 'Precision': 0.5740740740740741, 'Recall': 0.5666666666666667, 'ROC AUC': 0.7479166666666667}
+{'Fold Index': 9, 'Confusion Matrix': array([[13,  7,  0],
+       [ 3, 16,  1],
+       [ 3,  5, 12]], dtype=int64), 'Accuracy': 0.6833333333333333, 'Precision': 0.7262386736070946, 'Recall': 0.6833333333333333, 'ROC AUC': 0.8174999999999999}
+{'Fold Index': 10, 'Confusion Matrix': array([[13,  7,  0],
+       [ 3, 15,  2],
+       [ 2,  6, 12]], dtype=int64), 'Accuracy': 0.6666666666666666, 'Precision': 0.7050264550264551, 'Recall': 0.6666666666666666, 'ROC AUC': 0.8683333333333333}

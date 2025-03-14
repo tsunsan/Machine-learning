@@ -38,34 +38,82 @@ X_train_test, X_unseen, y_train_test, y_unseen = train_test_split(X, y, test_siz
 X_train, X_test, y_train, y_test = train_test_split(X_train_test, y_train_test, test_size=0.20, random_state=42, stratify=y_train_test)
 
 from sklearn.metrics import mean_absolute_error  # library to validate predicted output from actualy output
-from sklearn.metrics import confusion_matrix, accuracy_score, precision_score, recall_score, roc_auc_score
 
 # function on using mean_absolute_error
 def evaluate_mae(y_test, y_predicted):
     mae = mean_absolute_error(y_test, y_predicted)
     print(f"Mean Absolute Error (MAE): {mae:.4f}")
 
-def checking(y_test, y_pred,model,X_test):
-  # Evaluation Metrics
-  conf_matrix = confusion_matrix(y_test, y_pred)
-  accuracy = accuracy_score(y_test, y_pred)
-  precision = precision_score(y_test, y_pred, average='weighted', zero_division=1)
-  recall = recall_score(y_test, y_pred, average='weighted', zero_division=1)
-  roc_auc = roc_auc_score(y_test, model.predict_proba(X_test), multi_class="ovr")
+from sklearn.metrics import confusion_matrix, accuracy_score, precision_score, recall_score, roc_auc_score
+from sklearn.model_selection import StratifiedKFold
 
-  # Evaluate using 10-Fold Cross-Validation
-  cv = StratifiedKFold(n_splits=10, shuffle=True, random_state=42)
-  cv_scores = cross_val_score(model, X_train, y_train, cv=cv, scoring="accuracy")
+def training_and_testing(model, X, y, filename, original_df):
+    cv = StratifiedKFold(n_splits=10, shuffle=True, random_state=42)
+    results = []
+    unsuccessful_results = []
+
+    total_accuracy = 0
+    total_precision = 0
+    total_recall = 0
+    total_roc_auc = 0
+
+    for fold_idx, (train_idx, test_idx) in enumerate(cv.split(X, y), start=1):
+        X_train, X_test = X[train_idx], X[test_idx]
+        y_train, y_test = y.iloc[train_idx], y.iloc[test_idx]
+
+        # Fit the model on the training set
+        model.fit(X_train, y_train)
+        y_pred = model.predict(X_test)
+
+        # Calculate metrics
+        conf_matrix = confusion_matrix(y_test, y_pred)
+        accuracy = accuracy_score(y_test, y_pred)
+        precision = precision_score(y_test, y_pred, average='weighted', zero_division=1)
+        recall = recall_score(y_test, y_pred, average='weighted', zero_division=1)
+        roc_auc = roc_auc_score(y_test, model.predict_proba(X_test), multi_class="ovr")
+
+        # Accumulate metrics
+        total_accuracy += accuracy
+        total_precision += precision
+        total_recall += recall
+        total_roc_auc += roc_auc
+
+        # Store results
+        results.append({
+            "Fold Index": fold_idx,
+            "Confusion Matrix": conf_matrix,
+            "Accuracy": accuracy,
+            "Precision": precision,
+            "Recall": recall,
+            "ROC AUC": roc_auc
+        })
+
+        # Collect unsuccessful predictions with original text
+        for i, (true, pred) in enumerate(zip(y_test, y_pred)):
+            if true != pred:
+                original_text = original_df.iloc[test_idx[i]]["text"]
+                unsuccessful_results.append(f"True: {true}, Predicted: {pred}, Text: {original_text}")
+
+    # Calculate overall averages
+    num_folds = cv.get_n_splits()
+    avg_accuracy = total_accuracy / num_folds
+    avg_precision = total_precision / num_folds
+    avg_recall = total_recall / num_folds
+    avg_roc_auc = total_roc_auc / num_folds
+
+    print("Overall Averages:")
+    print(f"Accuracy: {avg_accuracy:.4f}")
+    print(f"Precision: {avg_precision:.4f}")
+    print(f"Recall: {avg_recall:.4f}")
+    print(f"ROC AUC: {avg_roc_auc:.4f}")
+
+    # Write unsuccessful predictions to file
+    with open(filename, "w", encoding="utf-8") as file:
+        file.write("\n".join(unsuccessful_results))
+
+    return results
 
 
-  # Print Evaluation Metrics
-  print("Confusion Matrix:\n", conf_matrix)
-  print("Accuracy:", accuracy)
-  print("Precision:", precision)
-  print("Recall:", recall)
-  print("ROC-AUC:", roc_auc)
-  print("Cross-Validation Accuracy Scores:", cv_scores)
-  print("Mean CV Accuracy:", np.mean(cv_scores))
 
 
 #HANS ARAGONA
@@ -80,13 +128,15 @@ svm_unseen = svm_classifier.predict(X_unseen)
 
 print("SVM RESULTS ====================================")
 
-print("SVM SEEN ****************************************")
+print("SVM TESTING SEEN ****************************************")
 evaluate_mae(y_test,svm_predictions)
-checking(y_test,svm_predictions,svm_classifier, X_test)
+svm_training_and_testing=training_and_testing(svm_classifier,X,y,"results/svm600_unsuccessful_results.txt",df)
 
-print("SVM UNSEEN ****************************************")
-evaluate_mae(y_unseen,svm_unseen)
-checking(y_unseen,svm_unseen,svm_classifier, X_unseen)
+#printing of training and testing results
+with open('training_testing/svm600_training_and_testing.txt', 'w') as file:
+    for res in svm_training_and_testing:
+        file.write(f"{res}\n")
+
 
 #NAIVE BASE
 from sklearn.naive_bayes import MultinomialNB
@@ -101,13 +151,9 @@ nb_unseen = nb_classifier.predict(X_unseen)
 
 print("NAIVE BASE RESULTS ====================================")
 
-print("NAIVE BASE SEEN ****************************************")
+print("NAIVE BASE TESTING SEEN ****************************************")
 evaluate_mae(y_test,nb_predictions)
-checking(y_test,nb_predictions,nb_classifier, X_test)
 
-print("NAIVE BASE UNSEEN ****************************************")
-evaluate_mae(y_unseen,nb_unseen)
-checking(y_unseen,nb_unseen,nb_classifier, X_unseen)
 
 #XGBOOST
 from xgboost import XGBClassifier
@@ -118,15 +164,11 @@ xgb_model.fit(X_train, y_train)
 xbg_pred = xgb_model.predict(X_test)
 xbg_unseen = xgb_model.predict(X_unseen)
 
-print("XGBOOST RESULTS ====================================")
 
-print("XGBOOST SEEN ****************************************")
+print("XGBOOST TESTING SEEN ****************************************")
 evaluate_mae(y_test,xbg_pred)
-checking(y_test,xbg_pred,xgb_model, X_test)
 
-print("XGBOOST UNSEEN ****************************************")
-evaluate_mae(y_unseen,xbg_unseen )
-checking(y_unseen,xbg_unseen ,xgb_model, X_unseen)
+
 
 #Import models
 import joblib

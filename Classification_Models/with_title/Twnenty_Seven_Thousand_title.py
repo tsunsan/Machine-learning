@@ -46,6 +46,9 @@ def evaluate_mae(y_test, y_predicted):
     print(f"Mean Absolute Error (MAE): {mae:.4f}")
 
 def checking(y_test, y_pred,model,X_test):
+    #dived dataset (x test and y tests and pred) tenfold
+    # per tenfold apply (evaluation matrics)
+
   # Evaluation Metrics
   conf_matrix = confusion_matrix(y_test, y_pred)
   accuracy = accuracy_score(y_test, y_pred)
@@ -57,7 +60,7 @@ def checking(y_test, y_pred,model,X_test):
   cv = StratifiedKFold(n_splits=10, shuffle=True, random_state=42)
   cv_scores = cross_val_score(model, X_train, y_train, cv=cv, scoring="accuracy")
 
-
+ #confusion_matrix_result = ("Confusion Matrix:\n", conf_matrix)
   # Print Evaluation Metrics
   print("Confusion Matrix:\n", conf_matrix)
   print("Accuracy:", accuracy)
