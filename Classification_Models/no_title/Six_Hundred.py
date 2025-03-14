@@ -144,10 +144,6 @@ def training_and_testing(model, X_train, y_train, X_test, y_test, filename, file
     return results, model
 
 
-
-
-
-
 #HANS ARAGONA
 #SVM
 from sklearn.svm import SVC
@@ -156,47 +152,86 @@ svm_classifier = SVC(probability=True)  # Enable probability estimates  # instat
 print("SVM")
 svm_training_and_testing, svm_classifier =training_and_testing(svm_classifier,X_train, y_train,X_test,y_test,
                                               "results/svm600_unsuccessful_results.txt","results/svm600_successful_results.txt",df)
-
-
 #printing of training and testing results
 with open('training_testing/svm600_training_and_testing.txt', 'w') as file:
     for res in svm_training_and_testing:
         file.write(f"{res}\n")
+
+#NAIVE BASE
+from sklearn.naive_bayes import MultinomialNB
+nb_classifier = MultinomialNB()
+print("NAIVE BASE")
+svm_training_and_testing, svm_classifier =training_and_testing(nb_classifier,X_train, y_train,X_test,y_test,
+                                              "results/nb600_unsuccessful_results.txt","results/nb600_successful_results.txt",df)
+#printing of training and testing results
+with open('training_testing/nb600_training_and_testing.txt', 'w') as file:
+    for res in svm_training_and_testing:
+        file.write(f"{res}\n")
+
+#XGBOOST
+from xgboost import XGBClassifier
+xgb_classifier = XGBClassifier(objective='multi:softprob', num_class=5, n_estimators=200)
+print("XGBOOST")
+svm_training_and_testing, svm_classifier =training_and_testing(xgb_classifier,X_train, y_train,X_test,y_test,
+                                              "results/xgb600_unsuccessful_results.txt","results/xgb600_successful_results.txt",df)
+#printing of training and testing results
+with open('training_testing/xgb600_training_and_testing.txt', 'w') as file:
+    for res in svm_training_and_testing:
+        file.write(f"{res}\n")
+
  #saving the model
 import joblib
-
 # Save the trained model
 joblib.dump(svm_classifier, 'models/svm_model_600.pkl')
+joblib.dump(nb_classifier, 'models/nb_model_600.pkl')
+joblib.dump(xgb_classifier, 'models/xgb_model_600.pkl')
 
 #valididating the model
-# Load the model
-svm_classifier = joblib.load('models/svm_model_600.pkl')
+def validate (filename, X_unseen, y_unseen,path):
+    # Load the model
+    model = joblib.load(filename)
 
-# Make predictions on unseen data
-y_pred = svm_classifier.predict(X_unseen)
-y_proba = svm_classifier.predict_proba(X_unseen)
+    # Make predictions on unseen data
+    y_pred = model.predict(X_unseen)
+    y_proba = model.predict_proba(X_unseen)
 
-# Calculate metrics
-conf_matrix = confusion_matrix(y_unseen, y_pred)
-accuracy = accuracy_score(y_unseen, y_pred)
-precision = precision_score(y_unseen, y_pred, average='weighted', zero_division=1)
-recall = recall_score(y_unseen, y_pred, average='weighted', zero_division=1)
-roc_auc = roc_auc_score(y_unseen, y_proba, multi_class="ovr")
-mae = mean_absolute_error(y_unseen, y_pred)
+    # Calculate metrics
+    conf_matrix = confusion_matrix(y_unseen, y_pred)
+    accuracy = accuracy_score(y_unseen, y_pred)
+    precision = precision_score(y_unseen, y_pred, average='weighted', zero_division=1)
+    recall = recall_score(y_unseen, y_pred, average='weighted', zero_division=1)
+    roc_auc = roc_auc_score(y_unseen, y_proba, multi_class="ovr")
+    mae = mean_absolute_error(y_unseen, y_pred)
 
-# Create labeled confusion matrix
-class_labels = ['negative', 'neutral', 'positive']
-labeled_conf_matrix = pd.DataFrame(conf_matrix, index=class_labels, columns=class_labels)
+    # Create labeled confusion matrix
+    class_labels = ['negative', 'neutral', 'positive']
+    labeled_conf_matrix = pd.DataFrame(conf_matrix, index=class_labels, columns=class_labels)
 
-# Print the metrics
-print("Overall Averages:")
-print(f"Accuracy: {accuracy:.4f}")
-print(f"Precision: {precision:.4f}")
-print(f"Recall: {recall:.4f}")
-print(f"ROC AUC: {roc_auc:.4f}")
-print(f"Average MAE: {mae:.4f}")
-print("Overall Confusion Matrix:")
-print(labeled_conf_matrix)
+    validated_metrics = {
+        "Validated Accuracy": accuracy,
+        "Validated Precision": precision,
+        "Overall Recall": recall,
+        "Overall ROC AUC": roc_auc,
+        "Overall Mean Average Error": mae
+    }
+    with open(path, 'w') as file:
+        for key, value in validated_metrics.items():
+            file.write(f"{key}: {value}\n")
+        file.write("Overall Confusion Matrix:\n")
+        file.write(labeled_conf_matrix.to_string())
+    # Print the metrics
+    print("Overall Averages: VALIDATION")
+    print(f"Accuracy: {accuracy:.4f}")
+    print(f"Precision: {precision:.4f}")
+    print(f"Recall: {recall:.4f}")
+    print(f"ROC AUC: {roc_auc:.4f}")
+    print(f"Average MAE: {mae:.4f}")
+    print("Overall Confusion Matrix:")
+    print(labeled_conf_matrix)
+
+validate('models/svm_model_600.pkl', X_unseen, y_unseen,'validated/svm600_validated.txt')
+validate('models/nb_model_600.pkl', X_unseen, y_unseen,'validated/nb600_validated.txt')
+validate('models/xgb_model_600.pkl', X_unseen, y_unseen,'validated/xgb00_validated.txt')
 
 
 
