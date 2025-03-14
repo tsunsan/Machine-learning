@@ -1,0 +1,31 @@
+{'Mean Absolute Error': 0.29212962962962963, 'Fold Index': 1, 'Confusion Matrix': array([[5310, 1644,  246],
+       [1882, 4589,  729],
+       [ 393,  932, 5875]], dtype=int64), 'Accuracy': 0.736574074074074, 'Precision': 0.7391187034528631, 'Recall': 0.736574074074074, 'ROC AUC': 0.8910005144032923}
+{'Mean Absolute Error': 0.2953703703703704, 'Fold Index': 2, 'Confusion Matrix': array([[534, 164,  22],
+       [189, 456,  75],
+       [ 37,  92, 591]], dtype=int64), 'Accuracy': 0.7319444444444444, 'Precision': 0.7340308816855308, 'Recall': 0.7319444444444444, 'ROC AUC': 0.8900067515432099}
+{'Mean Absolute Error': 0.2935185185185185, 'Fold Index': 3, 'Confusion Matrix': array([[543, 154,  23],
+       [186, 461,  73],
+       [ 42,  91, 587]], dtype=int64), 'Accuracy': 0.736574074074074, 'Precision': 0.7388994303102822, 'Recall': 0.736574074074074, 'ROC AUC': 0.8920518261316873}
+{'Mean Absolute Error': 0.3023148148148148, 'Fold Index': 4, 'Confusion Matrix': array([[530, 163,  27],
+       [193, 449,  78],
+       [ 38,  89, 593]], dtype=int64), 'Accuracy': 0.7277777777777777, 'Precision': 0.7288452631450774, 'Recall': 0.7277777777777777, 'ROC AUC': 0.8892158564814815}
+{'Mean Absolute Error': 0.300462962962963, 'Fold Index': 5, 'Confusion Matrix': array([[528, 169,  23],
+       [193, 453,  74],
+       [ 38,  91, 591]], dtype=int64), 'Accuracy': 0.7277777777777777, 'Precision': 0.7300024734444481, 'Recall': 0.7277777777777777, 'ROC AUC': 0.888105066872428}
+{'Mean Absolute Error': 0.30462962962962964, 'Fold Index': 6, 'Confusion Matrix': array([[516, 176,  28],
+       [179, 461,  80],
+       [ 36,  95, 589]], dtype=int64), 'Accuracy': 0.725, 'Precision': 0.7269046629714128, 'Recall': 0.725, 'ROC AUC': 0.8885879629629629}
+{'Mean Absolute Error': 0.29768518518518516, 'Fold Index': 7, 'Confusion Matrix': array([[528, 165,  27],
+       [177, 475,  68],
+       [ 39, 101, 580]], dtype=int64), 'Accuracy': 0.7328703703703704, 'Precision': 0.7366541065465798, 'Recall': 0.7328703703703704, 'ROC AUC': 0.8923730066872428}
+{'Mean Absolute Error': 0.30833333333333335, 'Fold Index': 8, 'Confusion Matrix': array([[529, 166,  25],
+       [202, 450,  68],
+       [ 47,  86, 587]], dtype=int64), 'Accuracy': 0.725, 'Precision': 0.7280698404205134, 'Recall': 0.725, 'ROC AUC': 0.889330954218107}
+{'Mean Absolute Error': 0.29907407407407405, 'Fold Index': 9, 'Confusion Matrix': array([[536, 157,  27],
+       [188, 459,  73],
+       [ 40,  94, 586]], dtype=int64), 'Accuracy': 0.7319444444444444, 'Precision': 0.7340923197051741, 'Recall': 0.7319444444444444, 'ROC AUC': 0.8878330761316873}
+{'Mean Absolute Error': 0.29953703703703705, 'Fold Index': 10, 'Confusion Matrix': array([[530, 169,  21],
+       [187, 462,  71],
+       [ 37, 104, 579]], dtype=int64), 'Accuracy': 0.7273148148148149, 'Precision': 0.7314601358694066, 'Recall': 0.7273148148148149, 'ROC AUC': 0.8887393904320987}
+{'Overall Metrics': {'Overall Accuracy': 0.7302777777777776, 'Overall Precision': 0.7328077817551288, 'Overall Recall': 0.7302777777777776, 'Overall ROC AUC': 0.8897244405864198, 'Overall Mean Average Error': 0.2993055555555556, 'Overall Confusion Matrix': {'negative': {'negative': 5310, 'neutral': 1882, 'positive': 393}, 'neutral': {'negative': 1644, 'neutral': 4589, 'positive': 932}, 'positive': {'negative': 246, 'neutral': 729, 'positive': 5875}}}}
