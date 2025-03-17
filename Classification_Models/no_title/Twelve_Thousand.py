@@ -161,22 +161,22 @@ with open('training_testing/svm12k_training_and_testing.txt', 'w') as file:
 from sklearn.naive_bayes import MultinomialNB
 nb_classifier = MultinomialNB()
 print("NAIVE BASE")
-svm_training_and_testing, svm_classifier =training_and_testing(nb_classifier,X_train, y_train,X_test,y_test,
+nb_training_and_testing, nb_classifier =training_and_testing(nb_classifier,X_train, y_train,X_test,y_test,
                                               "results/nb12k_unsuccessful_results.txt","results/nb12k_successful_results.txt",df)
 #printing of training and testing results
 with open('training_testing/nb12k_training_and_testing.txt', 'w') as file:
-    for res in svm_training_and_testing:
+    for res in nb_training_and_testing:
         file.write(f"{res}\n")
 
 #XGBOOST
 from xgboost import XGBClassifier
 xgb_classifier = XGBClassifier(objective='multi:softprob', num_class=5, n_estimators=200)
 print("XGBOOST")
-svm_training_and_testing, svm_classifier =training_and_testing(xgb_classifier,X_train, y_train,X_test,y_test,
+xgb_training_and_testing, xgb_classifier =training_and_testing(xgb_classifier,X_train, y_train,X_test,y_test,
                                               "results/xgb12k_unsuccessful_results.txt","results/xgb12k_successful_results.txt",df)
 #printing of training and testing results
 with open('training_testing/xgb12k_training_and_testing.txt', 'w') as file:
-    for res in svm_training_and_testing:
+    for res in xgb_training_and_testing:
         file.write(f"{res}\n")
 
  #saving the model
