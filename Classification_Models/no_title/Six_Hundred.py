@@ -11,6 +11,8 @@ from nltk.stem import WordNetLemmatizer, PorterStemmer
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.model_selection import train_test_split, cross_val_score, StratifiedKFold
 
+nltk.download('punkt_tab')
+
 # Initialize NLP tools
 stop_words = set(stopwords.words("english"))
 lemmatizer = WordNetLemmatizer()
