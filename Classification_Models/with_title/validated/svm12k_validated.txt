@@ -1,0 +1,10 @@
+Validated Accuracy: 0.7466666666666667
+Validated Precision: 0.7506750962365457
+Overall Recall: 0.7466666666666667
+Overall ROC AUC: 0.9012979166666666
+Overall Mean Average Error: 0.27166666666666667
+Overall Confusion Matrix:
+          negative  neutral  positive
+negative       281      112         7
+neutral        104      268        28
+positive        15       38       347
