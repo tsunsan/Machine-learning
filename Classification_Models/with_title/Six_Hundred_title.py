@@ -161,22 +161,22 @@ with open('training_testing/svm600_training_and_testing.txt', 'w') as file:
 from sklearn.naive_bayes import MultinomialNB
 nb_classifier = MultinomialNB()
 print("NAIVE BASE")
-svm_training_and_testing, svm_classifier =training_and_testing(nb_classifier,X_train, y_train,X_test,y_test,
+nb_training_and_testing, nb_classifier =training_and_testing(nb_classifier,X_train, y_train,X_test,y_test,
                                               "results/nb600_unsuccessful_results.txt","results/nb600_successful_results.txt",df)
 #printing of training and testing results
 with open('training_testing/nb600_training_and_testing.txt', 'w') as file:
-    for res in svm_training_and_testing:
+    for res in nb_training_and_testing:
         file.write(f"{res}\n")
 
 #XGBOOST
 from xgboost import XGBClassifier
 xgb_classifier = XGBClassifier(objective='multi:softprob', num_class=5, n_estimators=200)
 print("XGBOOST")
-svm_training_and_testing, svm_classifier =training_and_testing(xgb_classifier,X_train, y_train,X_test,y_test,
+xgb_training_and_testing, xgb_classifier =training_and_testing(xgb_classifier,X_train, y_train,X_test,y_test,
                                               "results/xgb600_unsuccessful_results.txt","results/xgb600_successful_results.txt",df)
 #printing of training and testing results
 with open('training_testing/xgb600_training_and_testing.txt', 'w') as file:
-    for res in svm_training_and_testing:
+    for res in xgb_training_and_testing:
         file.write(f"{res}\n")
 
  #saving the model
@@ -231,7 +231,7 @@ def validate (filename, X_unseen, y_unseen,path):
 
 validate('models/svm_model_600.pkl', X_unseen, y_unseen,'validated/svm600_validated.txt')
 validate('models/nb_model_600.pkl', X_unseen, y_unseen,'validated/nb600_validated.txt')
-validate('models/xgb_model_600.pkl', X_unseen, y_unseen,'validated/xgb00_validated.txt')
+validate('models/xgb_model_600.pkl', X_unseen, y_unseen,'validated/xgb600_validated.txt')
 
 
 
