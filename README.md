@@ -10,7 +10,7 @@ Named Entity Recognition (NER) is a subtask of information extraction that seeks
 
 - [`bert-base-uncased-for-NER.ipynb`](bert-base-uncased-for-NER.ipynb): Jupyter notebook for training a BERT-based NER model
 - [`english_ner.py`](english_ner.py): Python script for English NER
-- [`pretrained_english_ner.py`](pretrained_english_ner.py): Python script using pretrained English NER model
+- [`pretrained_english_ner.py`](pretrained_english_ner.py): Python script using pretrained from spaCy English NER model
 - [`tagalog_ner.py`](tagalog_ner.py): Python script for Tagalog NER
 - [`english_ner_model`](english_ner_model): Directory containing the pretrained English NER model files
 
